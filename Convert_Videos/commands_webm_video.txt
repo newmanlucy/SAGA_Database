@@ -1,0 +1,11 @@
+ffmpeg -i 001.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -vf scale=-1:480 -b:v 500k webm_video/001_avgbr_500k.webm
+ffmpeg -i 001.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -vf scale=-1:480 -b:v 750k webm_video/001_avgbr_750k.webm
+ffmpeg -i 001.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -vf scale=-1:480 -b:v 1M webm_video/001_avgbr_1M.webm
+ffmpeg -i 001.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -vf scale=-1:480 -b:v 2M webm_video/001_avgbr_2M.webm
+ffmpeg -i 001.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -vf scale=-1:480 -b:v 0 crf 0 webm_video/001_crf_0.webm
+ffmpeg -i 001.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -vf scale=-1:480 -b:v 0 crf 18 webm_video/001_crf_18.webm
+ffmpeg -i 001.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -vf scale=-1:480 -b:v 0 crf 33 webm_video/001_crf_33.webm
+ffmpeg -i 001.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -vf scale=-1:480 -b:v 0 crf 34 webm_video/001_crf_34.webm
+ffmpeg -i 001.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -vf scale=-1:480 -b:v 0 crf 50 webm_video/001_crf_50.webm
+ffmpeg -i 001.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -vf scale=-1:480 -b:v 0 crf 63 webm_video/001_crf_63.webm
+ffmpeg -i 001.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -vf scale=-1:480 -lossless 1 webm_video/001_lossless.webm

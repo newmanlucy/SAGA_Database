@@ -1,3 +1,2 @@
 pwd
 ls
-ffprobe ./001.mov
