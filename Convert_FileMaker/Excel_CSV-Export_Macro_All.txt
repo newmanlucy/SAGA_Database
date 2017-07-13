@@ -1,0 +1,31 @@
+Sub Repeat_all_files()
+    '//Change the path to the main folder, accordingly
+    Call RecursiveFolders("/project/sgsg/lab/archives/Spontaneous Sign Systems")
+End Sub
+
+Sub RecursiveFolders(ByVal MyPath As String)
+
+    Dim FileSys As Object
+    Dim objFolder As Object
+    Dim objSubFolder As Object
+    Dim objFile As Object
+    Dim wkbOpen As Workbook
+    
+    Set FileSys = CreateObject("Scripting.FileSystemObject")
+    Set objFolder = FileSys.GetFolder(MyPath)
+
+    Application.ScreenUpdating = False
+    
+    For Each objSubFolder In objFolder.SubFolders
+        For Each objFile In objSubFolder.Files
+            Set wkbOpen = Workbooks.Open(Filename:=objFile)
+            '//Change the name of your macro, accordingly
+            Call Macro2
+            wkbOpen.Close savechanges:=True
+        Next
+        Call RecursiveFolders(objSubFolder.Path)
+    Next
+
+    Application.ScreenUpdating = True
+    
+End Sub

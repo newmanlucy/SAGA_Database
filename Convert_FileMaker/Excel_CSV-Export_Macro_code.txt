@@ -1,0 +1,38 @@
+Sub Export_CSV()
+'
+' Export_CSV Macro
+'
+    
+    Dim WS As Excel.Worksheet
+    Dim SaveToDirectory As String
+    Dim myName As String
+    Dim CurrentWorkbook As String
+
+    ' Set the current workbook
+    CurrentWorkbook = ThisWorkbook.FullName
+    SaveToDirectory = ThisWorkbook.Path
+
+    ' Turn off Excel alerts
+    Application.DisplayAlerts = False
+
+    ' Loop through worksheets
+    For Each WS In ThisWorkbook.Worksheets
+        
+        WS.Activate
+        
+'        myName = "Test"
+        
+'        MsgBox ("File saved as [" & SaveToDirectory & WS.Name & "]")
+        
+        WS.SaveAs SaveToDirectory & ":" & WS.Name & ".csv", xlCSV
+    
+    Next
+
+    ' Open the original workbook
+    Application.Workbooks.Open CurrentWorkbook
+
+    ' Close last saved worksheet
+    ThisWorkbook.Close xlDoNotSaveChanges
+    
+End Sub
+
