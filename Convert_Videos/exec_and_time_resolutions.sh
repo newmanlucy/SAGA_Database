@@ -3,12 +3,13 @@
 # Variables to change
 WIDTH=640
 HEIGHT=480
+
+# Setup
 ASPRATIO=$(echo "$WIDTH/$HEIGHT" | bc -l)
 SETWIDTH="$WIDTH:-1"
 SETHEIGHT="-1:$HEIGHT"
 SETRATIO=$SETWIDTH
-
-# Setup
+SETASPRATIO=$ASPRATIO
 LOG="${0}.log"
 
 if [ -f $LOG ] ; then
