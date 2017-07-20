@@ -22,4 +22,4 @@ while IFS='' read -r line || [[ -n "$line" ]] ; do
     else
         echo "no"
     fi
-done < "list_files_here.txt"
+done < "video_files.txt"
