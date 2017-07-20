@@ -17,7 +17,7 @@ if [ -f $LOG ] ; then
 fi
 
 #Script
-while IFS='' read -r lineF; do
+while IFS='' read -r lineF || [[ -n "$lineF" ]]; do
     echo "File: ../${lineF}" >> $LOG
     eval $(ffprobe -v error -of flat=s=_ -select_streams v:0 -show_entries stream=height,width "../$lineF")
     if [ $(echo " $ASPRATIO > ${streams_stream_0_width}/${streams_stream_0_height}" | bc -l) = 0 ]; then
@@ -25,7 +25,7 @@ while IFS='' read -r lineF; do
     else
         SETRATIO=$SETHEIGHT
     fi
-    while IFS='' read -r lineS; do
+    while IFS='' read -r lineS || [[ -n "$lineS" ]]; do
         echo "Settings: ${lineS}" >> $LOG
         #echo "ffmpeg -i ../${lineF} ${lineS} -vf scale=$SETRATIO \"../webm_video/${lineF}_HEY.webm\" < /dev/null" >> $LOG
         time -p "ffmpeg -i ../${lineF} ${lineS} -vf scale=$SETRATIO \"../webm_video/${lineF}_HEY.webm\" < /dev/null" 2>>$LOG

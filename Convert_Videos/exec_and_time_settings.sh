@@ -5,9 +5,9 @@ if [ -f $LOG ] ; then
     rm $LOG
 fi
 
-while IFS='' read -r lineF; do
+while IFS='' read -r lineF || [[ -n "$lineF" ]]; do
     echo "File: ${lineF}" >> $LOG
-    while IFS='' read -r lineC && read -r lineS <&3; do
+    while IFS='' read -r lineC && read -r lineS <&3 || [[ -n "$lineC" ]] || [[ -n "$lineS" ]]; do
         echo "Command: ${lineC}" >> $LOG
         echo "Settings: ${lineS}" >> $LOG
         #time -p "${lineC}" #2>>$LOG
