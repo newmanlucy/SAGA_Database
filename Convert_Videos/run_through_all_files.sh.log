@@ -1,0 +1,69 @@
+ffmpeg version 3.3 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 4.8.5 (GCC) 20150623 (Red Hat 4.8.5-4)
+  configuration: --prefix=/software/ffmpeg-3.3-el7-x86_64 --enable-nonfree --enable-shared --enable-avresample --enable-libx264 --enable-libx265 --enable-libvpx --enable-pic --enable-netcdf --enable-gpl --enable-libvorbis
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libavresample   3.  5.  0 /  3.  5.  0
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ENGLAND/BRITISH_GESTURE/BRI_CL/Vignettes/book/BRI_CL_bo_10.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf56.3.100
+  Duration: 00:00:16.72, start: 0.000000, bitrate: 4271 kb/s
+    Stream #0:0(eng): Video: mpeg4 (Simple Profile) (mp4v / 0x7634706D), yuv420p, 960x540 [SAR 1:1 DAR 16:9], 4270 kb/s, 25 fps, 25 tbr, 12800 tbn, 25 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+File 'BRI_CL_bo_10.mp4.h264.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 4.8.5 (GCC) 20150623 (Red Hat 4.8.5-4)
+  configuration: --prefix=/software/ffmpeg-3.3-el7-x86_64 --enable-nonfree --enable-shared --enable-avresample --enable-libx264 --enable-libx265 --enable-libvpx --enable-pic --enable-netcdf --enable-gpl --enable-libvorbis
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libavresample   3.  5.  0 /  3.  5.  0
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ENGLAND/BRITISH_GESTURE/BRI_CL/Vignettes/pen/BRI_CL_pe_07.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf56.3.100
+  Duration: 00:00:12.20, start: 0.000000, bitrate: 4569 kb/s
+    Stream #0:0(eng): Video: mpeg4 (Simple Profile) (mp4v / 0x7634706D), yuv420p, 960x540 [SAR 1:1 DAR 16:9], 4567 kb/s, 25 fps, 25 tbr, 12800 tbn, 25 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+File 'BRI_CL_pe_07.mp4.h264.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3 Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 4.8.5 (GCC) 20150623 (Red Hat 4.8.5-4)
+  configuration: --prefix=/software/ffmpeg-3.3-el7-x86_64 --enable-nonfree --enable-shared --enable-avresample --enable-libx264 --enable-libx265 --enable-libvpx --enable-pic --enable-netcdf --enable-gpl --enable-libvorbis
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libavresample   3.  5.  0 /  3.  5.  0
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ENGLAND/BRITISH_GESTURE/BRI_JJ/Vignettes/plane/BRI_JJ_pl_10.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf56.3.100
+  Duration: 00:00:12.20, start: 0.000000, bitrate: 3009 kb/s
+    Stream #0:0(eng): Video: mpeg4 (Simple Profile) (mp4v / 0x7634706D), yuv420p, 960x540 [SAR 1:1 DAR 16:9], 3007 kb/s, 25 fps, 25 tbr, 12800 tbn, 25 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+File 'BRI_JJ_pl_10.mp4.h264.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
