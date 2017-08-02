@@ -1,0 +1,11 @@
+-f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 500k
+-f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 750k
+-f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 1M
+-f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 2M
+-f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 0
+-f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 18
+-f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 33
+-f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 34
+-f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 50
+-f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 63
+-f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -lossless 1

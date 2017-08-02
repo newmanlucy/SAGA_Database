@@ -1,0 +1,68 @@
+File: ../001.mov
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 500k
+ffmpeg -i ../001.mov -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 500k -vf scale=640:-1 "../webm_video/001.mov_HEY.webm"  < /dev/null
+
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 750k
+ffmpeg -i ../001.mov -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 750k -vf scale=640:-1 "../webm_video/001.mov_HEY.webm"  < /dev/null
+
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 1M
+ffmpeg -i ../001.mov -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 1M -vf scale=640:-1 "../webm_video/001.mov_HEY.webm"  < /dev/null
+
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 2M
+ffmpeg -i ../001.mov -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 2M -vf scale=640:-1 "../webm_video/001.mov_HEY.webm"  < /dev/null
+
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 0
+ffmpeg -i ../001.mov -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 0 -vf scale=640:-1 "../webm_video/001.mov_HEY.webm"  < /dev/null
+
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 18
+ffmpeg -i ../001.mov -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 18 -vf scale=640:-1 "../webm_video/001.mov_HEY.webm"  < /dev/null
+
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 33
+ffmpeg -i ../001.mov -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 33 -vf scale=640:-1 "../webm_video/001.mov_HEY.webm"  < /dev/null
+
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 34
+ffmpeg -i ../001.mov -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 34 -vf scale=640:-1 "../webm_video/001.mov_HEY.webm"  < /dev/null
+
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 50
+ffmpeg -i ../001.mov -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 50 -vf scale=640:-1 "../webm_video/001.mov_HEY.webm"  < /dev/null
+
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 63
+ffmpeg -i ../001.mov -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 63 -vf scale=640:-1 "../webm_video/001.mov_HEY.webm"  < /dev/null
+
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -lossless 1
+ffmpeg -i ../001.mov -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -lossless 1 -vf scale=640:-1 "../webm_video/001.mov_HEY.webm"  < /dev/null
+
+File: ../002.m4v
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 500k
+ffmpeg -i ../002.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 500k -vf scale=640:-1 "../webm_video/002.m4v_HEY.webm"  < /dev/null
+
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 750k
+ffmpeg -i ../002.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 750k -vf scale=640:-1 "../webm_video/002.m4v_HEY.webm"  < /dev/null
+
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 1M
+ffmpeg -i ../002.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 1M -vf scale=640:-1 "../webm_video/002.m4v_HEY.webm"  < /dev/null
+
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 2M
+ffmpeg -i ../002.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 2M -vf scale=640:-1 "../webm_video/002.m4v_HEY.webm"  < /dev/null
+
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 0
+ffmpeg -i ../002.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 0 -vf scale=640:-1 "../webm_video/002.m4v_HEY.webm"  < /dev/null
+
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 18
+ffmpeg -i ../002.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 18 -vf scale=640:-1 "../webm_video/002.m4v_HEY.webm"  < /dev/null
+
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 33
+ffmpeg -i ../002.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 33 -vf scale=640:-1 "../webm_video/002.m4v_HEY.webm"  < /dev/null
+
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 34
+ffmpeg -i ../002.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 34 -vf scale=640:-1 "../webm_video/002.m4v_HEY.webm"  < /dev/null
+
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 50
+ffmpeg -i ../002.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 50 -vf scale=640:-1 "../webm_video/002.m4v_HEY.webm"  < /dev/null
+
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 63
+ffmpeg -i ../002.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -b:v 0 crf 63 -vf scale=640:-1 "../webm_video/002.m4v_HEY.webm"  < /dev/null
+
+Settings: -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -lossless 1
+ffmpeg -i ../002.m4v -f webm -c:v libvpx-vp9 -c:a libvorbis -ss 00:01:00 -t 00:00:30 -lossless 1 -vf scale=640:-1 "../webm_video/002.m4v_HEY.webm"  < /dev/null
+
