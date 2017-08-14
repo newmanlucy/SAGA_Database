@@ -1,3 +1,6 @@
+# given a file list, compares headers between each of the listed file
+# returns header and which files have the corresponding header
+
 file_list = "file_list.txt"	# file with list of csv files
 curr_header = []		# main header
 comp_header = []		# header compared with main header
@@ -9,12 +12,13 @@ with open(file_list, 'r') as f, open(file_list, 'r') as f_files:
     for file_no, file_name in enumerate(f, start=0):
         file_name = file_name.strip()
         list_files.append(file_name)
+        list_subset = []
         with open(file_name, 'r') as f_curr:
             curr_header = sorted(f_curr.readline().strip().split(','))
             if (curr_header not in list_headers):
                 list_headers.append(curr_header)
                 print("Header:\t" + str(curr_header))
-                print("Files:\t"),
+
                 f_files.seek(0)
                 for i in xrange(file_no):
                     f_files.next()
@@ -23,5 +27,6 @@ with open(file_list, 'r') as f, open(file_list, 'r') as f_files:
                     with open(line_comp) as f_comp:
                         comp_header = sorted(f_comp.readline().strip().split(','))
                         if (curr_header == comp_header):
-                            print(line_comp + ", "),
-                print('\n')
+                            list_subset.append(line_comp)
+                print("#Files:\t" + str(len(list_subset)))
+                print("Files:\t" + str(list_subset) + '\n')
