@@ -18,7 +18,6 @@ with open(file_list, 'r') as f, open(file_list, 'r') as f_files:
             if (curr_header not in list_headers):
                 list_headers.append(curr_header)
                 print("Header:\t" + str(curr_header))
-
                 f_files.seek(0)
                 for i in xrange(file_no):
                     f_files.next()
