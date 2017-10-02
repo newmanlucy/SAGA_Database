@@ -1,0 +1,1934 @@
+xP4]utt number,xP4]subjses,utterance::time on tape,gesture description::transcript number,gesture description::utt #,gesture description::within utt sign seq,gesture description::form gloss,gesture description::utt case output,gesture description::link orig,utt proposition number
+1,TDC101 S02 child,00:32:46:20,,1,1,q,q,end (•),1
+,,,,1,2,floor,re,seq (-),
+,,,,1,3,floor,re,seq (-),
+,,,,1,4,floor,re,end (•),
+2,TDC101 S02 child,00:33:10:22,,2,1,eyes,en,end (•),1
+3,TDC101 S02 child,00:33:28:28,,3,1,Mr. Potatohead,en,end (•),1
+4,TDC101 S02 child,00:33:35:04,,4,1,Mr. Potatohead,en,end (•),1
+5,TDC101 S02 child,00:33:43:16,,5,1,flip,flip,sim (+),1
+,,,,5,2,glasses,en,end (•),
+6,TDC101 S02 child,00:34:10:14,,6,1,TWIST,ac,end (•),1
+7,TDC101 S02 child,00:34:17:29,,7,1,mr. p eyes,en,seq (-),1
+,,,,7,2,eyes,sim,end (•),
+8,TDC101 S02 child,00:34:20:15,,8,1,Mr. P glasses,en2,sim (+),1
+,,,,8,2,Mr. P glasses,en2,seq (-),
+,,,,8,3,TRACE NOSE,de1,end (•),
+8,TDC101 S02 child,00:34:20:15,,8,1,Mr. P glasses,en2,sim (+),2
+,,,,8,2,Mr. P glasses,en2,seq (-),
+,,,,8,3,TRACE NOSE,de1,end (•),
+9,TDC101 S02 child,00:34:33:05,,9,1,nose area,sim,seq (-),1
+,,,,9,2,nose area,sim,seq (-),
+,,,,9,3,nose area,sim,seq (-),
+,,,,9,4,nose area,sim,end (•),
+10,TDC101 S02 child,00:34:50:27,,10,1,mustache,en,end (•),1
+11,TDC101 S02 child,00:35:33:05,,11,1,MOVE TO,q,end (•),1
+12,TDC101 S02 child,00:35:34:06,,12,1,RELEASE,q,end (•),1
+13,TDC101 S02 child,,,13,1,finish,finish,end (•),1
+14,TDC101 S02 child,00:35:45:12,,14,1,bow,en,end (•),1
+15,TDC101 S02 child,00:35:52:19,,15,1,tongue,pa,seq (-),1
+,,,,15,2,HOLD,ac,end (•),
+15.5,TDC101 S02 child,13:16:54;00,,15.5,1,potato head,loc,end (•),1
+16,TDC101 S02 child,00:36:05:03,,16,1,l eye,sim,seq (-),1
+,,,,16,2,r eye,sim,end (•),
+17,TDC101 S02 child,00:36:11:03,,17,1,q,q,end (•),1
+18,TDC101 S02 child,00:36:16:05,,18,1,ear,sim,end (•),1
+19,TDC101 S02 child,00:36:20:25,,19,1,nose,sim,end (•),1
+20,TDC101 S02 child,00:36:30:05,,20,1,flip,flip,end (•),1
+21,TDC101 S02 child,00:36:47:13,,21,1,flip,flip,end (•),1
+21.5,TDC101 S02 child,00:37:04:08,,21.5,1,feet,en,end (•),1
+22,TDC101 S02 child,00:37:07:19,,22,1,feet,en,end (•),1
+23,TDC101 S02 child,00:37:28:10,,23,1,head,en,end (•),1
+24,TDC101 S02 child,00:37:29:03,,24,1,A’s teeth,sim1,,1
+,,,,24,2,Mr. Potatohead,lo2,end (•),
+24,TDC101 S02 child,00:37:29:03,,24,1,A’s teeth,sim1,,2
+,,,,24,2,Mr. Potatohead,lo2,end (•),
+25,TDC101 S02 child,00:37:32:26,,25,1,mustache,en2,sim (+),1
+,,,,25,2,HOLD,ac1,end (•),
+25,TDC101 S02 child,00:37:32:26,,25,1,mustache,en2,sim (+),2
+,,,,25,2,HOLD,ac1,end (•),
+26,TDC101 S02 child,00:37:41:22,,26,1,CURVED SHAPE,de,end (•),1
+27,TDC101 S02 child,00:37:49:13,,27,1,eyes,sim,end (•),1
+28,TDC101 S02 child,00:37:51:04,,28,1,eyes,en,sim (+),1
+,,,,28,2,flip,flip,end (•),
+29,TDC101 S02 child,00:37:56:16,,29,1,Mr. Potatohead,en,seq (-),1
+,,,,29,2,Mr. Potatohead,en,seq (-),
+,,,,29,3,Mr. Potatohead,en,end (•),
+30,TDC101 S02 child,00:38:03:21,,30,1,nose,en,end (•),1
+31,TDC101 S02 child,00:38:06:08,,31,1,rejection,rejection,end (•),1
+32,TDC101 S02 child,00:38:11:06,,32,1,rejection,rejection,end (•),1
+33,TDC101 S02 child,00:38:25:12,,33,1,flourish,flourish,end (•),1
+34,TDC101 S02 child,00:38:26:16,,34,1,q,q,end (•),1
+35,TDC101 S02 child,00:38:39:10,,35,1,flip,flip,end (•),1
+36,TDC101 S02 child,00:39:09:12,,36,1,self,en,end (•),1
+37,TDC101 S02 child,00:39:10:14,,37,1,q,q,seq (-),1
+,,,,37,2,puzzle surface,en,end (•),
+38,TDC101 S02 child,00:39:15:21,,38,1,puzzle,lo1,seq (-),1
+,,,,38,2,flip,flip,seq (-),
+,,,,38,3,rabbit,en2,seq (-),
+,,,,38,4,paint tube,en3,end (•),
+38,TDC101 S02 child,00:39:15:21,,38,1,puzzle,lo1,seq (-),2
+,,,,38,2,flip,flip,seq (-),
+,,,,38,3,rabbit,en2,seq (-),
+,,,,38,4,paint tube,en3,end (•),
+38,TDC101 S02 child,00:39:15:21,,38,1,puzzle,lo1,seq (-),3
+,,,,38,2,flip,flip,seq (-),
+,,,,38,3,rabbit,en2,seq (-),
+,,,,38,4,paint tube,en3,end (•),
+39,TDC101 S02 child,00:39:20:17,,39,1,flourish,flourish,end (•),1
+40,TDC101 S02 child,00:39:22:29,,40,1,puzzle piece,en,seq (-),1
+,,,,40,2,flip,flip,abt (•),
+40.5,TDC101 S02 child,00:39:26:03,,40.5,1,rabbit,ar,seq (-),1
+,,,,40.5,2,POUR,ac,end (•),
+41,TDC101 S02 child,00:39:36:00,,41,1,flip,flip,end (•),1
+42,TDC101 S02 child,00:39:46:12,,42,1,EXTENT,de,end (•),1
+43,TDC101 S02 child,00:40:04:14,,43,1,girl rabbit,en,seq (-),1
+,,,,43,2,boy rabbit ,en,end (•),
+43,TDC101 S02 child,00:40:04:14,,43,1,girl rabbit,en,seq (-),2
+,,,,43,2,boy rabbit ,en,end (•),
+44,TDC101 S02 child,00:40:51:07,,44,1,CIRCULAR EXTENT,de1,sim (+),1
+,,,,44,2,self,ar,seq (-),
+,,,,44,3,self,ar,seq (-),
+,,,,44,4,q,q,end (•),
+44,TDC101 S02 child,00:40:51:07,,44,1,CIRCULAR EXTENT,de1,sim (+),2
+,,,,44,2,self,ar,seq (-),
+,,,,44,3,self,ar,seq (-),
+,,,,44,4,q,q,end (•),
+45,TDC101 S02 child,00:40:57:24,,45,1,puzzle,en1,seq (-),1
+,,,,45,2,mother,en2,sim (+),
+,,,,45,3,wobble,wobble,end (•),
+46,TDC101 S02 child,00:41:03:01,,46,1,boy rabbit,en,seq (-),1
+,,,,46,2,mother,sim,end (•),
+47,TDC101 S02 child,00:41:10:16,,47,1,girl rabbit ,en1,seq (-),1
+,,,,47,2,boy rabbit,en2,seq (-),
+,,,,47,3,mother,sim2,seq (-),
+,,,,47,4,mother,sim2,seq (-),
+,,,,47,5,girl rabbit,en2,seq (-),
+,,,,47,6,q,q,abt (•),
+47,TDC101 S02 child,00:41:10:16,,47,1,girl rabbit ,en1,seq (-),2
+,,,,47,2,boy rabbit,en2,seq (-),
+,,,,47,3,mother,sim2,seq (-),
+,,,,47,4,mother,sim2,seq (-),
+,,,,47,5,girl rabbit,en2,seq (-),
+,,,,47,6,q,q,abt (•),
+47.5,TDC101 S02 child,00:41:15:06,,47.5,1,girl rabbit,ar1,seq (-),1
+,,,,47.5,2,boy rabbit,ar2,seq (-),
+,,,,47.5,3,wall,pla1/pla2,end (•),
+47.5,TDC101 S02 child,00:41:15:06,,47.5,1,girl rabbit,ar1,seq (-),2
+,,,,47.5,2,boy rabbit,ar2,seq (-),
+,,,,47.5,3,wall,pla1/pla2,end (•),
+48,TDC101 S02 child,00:41:20:21,,48,1,girl rabbit,en1/ar2,sim (+),1
+,,,,48,2,self,sim1,seq (-),
+,,,,48,3,self,sim1,seq (-),
+,,,,48,4,wall,pla2,end (•),
+48,TDC101 S02 child,00:41:20:21,,48,1,girl rabbit,en1/ar2,sim (+),2
+,,,,48,2,self,sim1,seq (-),
+,,,,48,3,self,sim1,seq (-),
+,,,,48,4,wall,pla2,end (•),
+49,TDC101 S02 child,00:41:25:08,,49,1,MOVE UP AND DOWN,ac1,seq (-),1
+,,,,49,2,wall,pla1,seq (-),
+,,,,49,3,self,en2,end (•),
+49,TDC101 S02 child,00:41:25:08,,49,1,MOVE UP AND DOWN,ac1,seq (-),2
+,,,,49,2,wall,pla1,seq (-),
+,,,,49,3,self,en2,end (•),
+50,TDC101 S02 child,00:41:32:05,,50,1,blue,en1,seq (-),1
+,,,,50,2,self,en2,seq (-),
+,,,,50,3,boy rabbit,sim2,seq (-),
+,,,,50,4,self,en2,sim (+),
+,,,,50,5,boy rabbit,sim2,seq (-),
+,,,,50,6,girl rabbit,en3,seq (-),
+,,,,50,7,EXTENT WALL,de4,seq (-),
+,,,,50,8,mother,sim3,end (•),
+50,TDC101 S02 child,00:41:32:05,,50,1,blue,en1,seq (-),2
+,,,,50,2,self,en2,seq (-),
+,,,,50,3,boy rabbit,sim2,seq (-),
+,,,,50,4,self,en2,sim (+),
+,,,,50,5,boy rabbit,sim2,seq (-),
+,,,,50,6,girl rabbit,en3,seq (-),
+,,,,50,7,EXTENT WALL,de4,seq (-),
+,,,,50,8,mother,sim3,end (•),
+50,TDC101 S02 child,00:41:32:05,,50,1,blue,en1,seq (-),3
+,,,,50,2,self,en2,seq (-),
+,,,,50,3,boy rabbit,sim2,seq (-),
+,,,,50,4,self,en2,sim (+),
+,,,,50,5,boy rabbit,sim2,seq (-),
+,,,,50,6,girl rabbit,en3,seq (-),
+,,,,50,7,EXTENT WALL,de4,seq (-),
+,,,,50,8,mother,sim3,end (•),
+50,TDC101 S02 child,00:41:32:05,,50,1,blue,en1,seq (-),4
+,,,,50,2,self,en2,seq (-),
+,,,,50,3,boy rabbit,sim2,seq (-),
+,,,,50,4,self,en2,sim (+),
+,,,,50,5,boy rabbit,sim2,seq (-),
+,,,,50,6,girl rabbit,en3,seq (-),
+,,,,50,7,EXTENT WALL,de4,seq (-),
+,,,,50,8,mother,sim3,end (•),
+51,TDC101 S02 child,00:41:33:14,,51,1,mother,en,sim (+),1
+,,,,51,2,CONNECTED,de,end (•),
+52,TDC101 S02 child,00:41:35:19,,52,1,wobble,wobble,end (•),1
+53,TDC101 S02 child,00:41:37:15,,53,1,girl rabbit,en,seq (-),1
+,,,,53,2,girl rabbit,en,seq (-),
+,,,,53,3,q,sim,end (•),
+54,TDC101 S02 child,00:41:40:15,,54,1,boy rabbit,en,seq (-),1
+,,,,54,2,q,sim,end (•),
+55,TDC101 S02 child,00:41:42:07,,55,1,girl rabbit,en,end (•),1
+56,TDC101 S02 child,00:41:47:02,,56,1,girl rabbit,en1,seq (-),1
+,,,,56,2,q,sim1,seq (-),
+,,,,56,3,boy rabbit ,en2,seq (-),
+,,,,56,4,q,sim2,seq (-),
+,,,,56,5,girl rabbit,en1,end (•),
+56,TDC101 S02 child,00:41:47:02,,56,1,girl rabbit,en1,seq (-),2
+,,,,56,2,q,sim1,seq (-),
+,,,,56,3,boy rabbit ,en2,seq (-),
+,,,,56,4,q,sim2,seq (-),
+,,,,56,5,girl rabbit,en1,end (•),
+57,TDC101 S02 child,00:41:54:12,,57,1,mother,en1/en2,seq (-),1
+,,,,57,2,boy rabbit,sim1,seq (-),
+,,,,57,3,mother,en1/en2,seq (-),
+,,,,57,4,girl rabbit,sim2,seq (-),
+,,,,57,5,self,en3,seq (-),
+,,,,57,6,girl rabbit,sim3,seq (-),
+,,,,57,7,girl rabbit,sim3,sim (+),
+,,,,57,8,self,en3,end (•),
+57,TDC101 S02 child,00:41:54:12,,57,1,mother,en1/en2,seq (-),2
+,,,,57,2,boy rabbit,sim1,seq (-),
+,,,,57,3,mother,en1/en2,seq (-),
+,,,,57,4,girl rabbit,sim2,seq (-),
+,,,,57,5,self,en3,seq (-),
+,,,,57,6,girl rabbit,sim3,seq (-),
+,,,,57,7,girl rabbit,sim3,sim (+),
+,,,,57,8,self,en3,end (•),
+57,TDC101 S02 child,00:41:54:12,,57,1,mother,en1/en2,seq (-),3
+,,,,57,2,boy rabbit,sim1,seq (-),
+,,,,57,3,mother,en1/en2,seq (-),
+,,,,57,4,girl rabbit,sim2,seq (-),
+,,,,57,5,self,en3,seq (-),
+,,,,57,6,girl rabbit,sim3,seq (-),
+,,,,57,7,girl rabbit,sim3,sim (+),
+,,,,57,8,self,en3,end (•),
+58,TDC101 S02 child,00:42:02:17,,58,1,hair,en1,seq (-),1
+,,,,58,2,puzzle panel,sim1,seq (-),
+,,,,58,3,girl rabbit,po2,seq (-),
+,,,,58,4,girl rabbit,po2,end (•),
+58,TDC101 S02 child,00:42:02:17,,58,1,hair,en1,seq (-),2
+,,,,58,2,puzzle panel,sim1,seq (-),
+,,,,58,3,girl rabbit,po2,seq (-),
+,,,,58,4,girl rabbit,po2,end (•),
+59,TDC101 S02 child,00:42:08:18`,,59,1,HOLD,ac1,sim (+),1
+,,,,59,2,MOVE CIRCLE,ac2,seq (-),
+,,,,59,3,MOVE UP AND DOWN/PAINT,ac3,end (•),
+59,TDC101 S02 child,00:42:08:18`,,59,1,HOLD,ac1,sim (+),2
+,,,,59,2,MOVE CIRCLE,ac2,seq (-),
+,,,,59,3,MOVE UP AND DOWN/PAINT,ac3,end (•),
+59,TDC101 S02 child,00:42:08:18`,,59,1,HOLD,ac1,sim (+),3
+,,,,59,2,MOVE CIRCLE,ac2,seq (-),
+,,,,59,3,MOVE UP AND DOWN/PAINT,ac3,end (•),
+60,TDC101 S02 child,00:42:15:09,,60,1,HOLD,ac1,seq (-),1
+,,,,60,2,left hand,en2,seq (-),
+,,,,60,3,HOLD,ac1,end (•),
+60,TDC101 S02 child,00:42:15:09,,60,1,HOLD,ac1,seq (-),2
+,,,,60,2,left hand,en2,seq (-),
+,,,,60,3,HOLD,ac1,end (•),
+61,TDC101 S02 child,00:42:25:21,,61,1,toys,pa,seq (-),1
+,,,,61,2,self,re,end (•),
+62,TDC101 S02 child,00:42:27:09,,62,1,ROTATE,ac1,sim (+),1
+,,,,62,2,HOLD,ac2,end (•),
+62,TDC101 S02 child,00:42:27:09,,62,1,ROTATE,ac1,sim (+),2
+,,,,62,2,HOLD,ac2,end (•),
+63,TDC101 S02 child,00:42:31:13,,63,1,toy bag,en,end (•),1
+64,TDC101 S02 child,00:43:21:08,,64,1,pm toy,en,end (•),1
+65,TDC101 S02 child,00:43:25:10,,65,1,flip,flip,seq (-),1
+,,,,65,2,pm toy,en,end (•),
+66,TDC101 S02 child,00:43:34:04,,66,1,nod,nod,end (•),1
+67,TDC101 S02 child,00:44:29:26,,67,1,q,q,end (•),1
+67.5,TDC101 S02 child,00:44:33:15,,67.5,1,play area,en,end (•),1
+68,TDC101 S02 child,00:44:51:08,,68,1,chair,en,end (•),1
+68.5,TDC101 S02 child,00:45:08:24,,68.5,1,nod,nod,end (•),1
+69,TDC101 S02 child,00:45:15:27,,69,1,pm person,en1,sim (+),1
+,,,,69,2,self,sim1,seq (-),
+,,,,69,3,pm person,en1,seq (-),
+,,,,69,4,TRACE HAIR,de2,seq (-),
+,,,,69,5,hair,en2,sim (+),
+,,,,69,6,pm person,en1,end (•),
+69,TDC101 S02 child,00:45:15:27,,69,1,pm person,en1,sim (+),2
+,,,,69,2,self,sim1,seq (-),
+,,,,69,3,pm person,en1,seq (-),
+,,,,69,4,TRACE HAIR,de2,seq (-),
+,,,,69,5,hair,en2,sim (+),
+,,,,69,6,pm person,en1,end (•),
+70,TDC101 S02 child,00:45:18:17,,70,1,pm person,en,sim (+),1
+,,,,70,2,hair,sim,end (•),
+70.5,TDC101 S02 child,00:45:21:03,,70.5,1,MOVE UP,ac,seq (-),1
+,,,,70.5,2,pm person,ar,end (•),
+71,TDC101 S02 child,00:45:33:16,,71,1,POUR,ac,end (•),1
+72,TDC101 S02 child,00:46:23:04,,72,1,PUT IN,ac1,seq (-),1
+,,,,72,2,PUT IN,ac1,seq (-),
+,,,,72,3,GIVE,ac2,end (•),
+72,TDC101 S02 child,00:46:23:04,,72,1,PUT IN,ac1,seq (-),2
+,,,,72,2,PUT IN,ac1,seq (-),
+,,,,72,3,GIVE,ac2,end (•),
+73,TDC101 S02 child,00:46:24:07,,73,1,head shake,head shake,end (•),1
+74,TDC101 S02 child,00:47:09:02,,74,1,pm plant,en,end (•),1
+75,TDC101 S02 child,00:47:16:26,,75,1,pm plant,en,end (•),1
+76,TDC101 S02 child,00:47:21:29,,76,1,pm plant,en,end (•),1
+77,TDC101 S02 child,00:47:35:01,,77,1,pm cabinet/lamp,en,end (•),1
+78,TDC101 S02 child,00:47:47:27,,78,1,q,en,end (•),1
+79,TDC101 S02 child,00:47:46:25,,79,1,q,en,seq (-),1
+,,,,79,2,q,en,seq (-),
+,,,,79,3,tap,tap,end (•),
+80,TDC101 S02 child,00:47:53:13,,80,1,pm pot,en,end (•),1
+81,TDC101 S02 child,00:48:01:19,,81,1,flip,flip,end (•),1
+82,TDC101 S02 child,00:48:14:02,,82,1,flip,flip,end (•),1
+83,TDC101 S02 child,00:48:16:19,,83,1,flip,flip,end (•),1
+84,TDC101 S02 child,00:48:22:22,,84,1,flip,flip,seq (-),1
+,,,,84,2,pm lamp,en,seq (-),
+,,,,84,3,flip,flip,seq (-),
+,,,,84,4,tap,tap,seq (-),
+,,,,84,5,tap,tap,seq (-),
+,,,,84,6,pm lamp,en,seq (-),
+,,,,84,7,pm lamp,en,end (•),
+85,TDC101 S02 child,00:48:25:11,,85,1,flip,flip,seq (-),1
+,,,,85,2,self,en,sim (+),
+,,,,85,3,shrug,shrug,seq (-),
+,,,,85,4,flip,flip,end (•),
+86,TDC101 S02 child,00:48:26:28,,86,1,self,en,end (•),1
+86.5,TDC101 S02 child,00:48:29:08,,86.5,1,B-rejection,B-rejection,end (•),1
+87,TDC101 S02 child,00:48:37:23,,87,1,nod,nod,end (•),1
+88,TDC101 S02 child,00:48:40:07,,88,1,B-rejection,B-rejection,seq (-),1
+,,,,88,2,B-rejection,B-rejection,end (•),
+89,TDC101 S02 child,00:48:43:07,,89,1,flip,flip,end (•),1
+90,TDC101 S02 child,00:48:57:14,,90,1,pm tv,en,seq (-),1
+,,,,90,2,pm TV screen,en,end (•),
+91,TDC101 S02 child,00:49:06:00,,91,1,TV,en,seq (-),1
+,,,,91,2,pm TV,sim,seq (-),
+,,,,91,3,TV,en,seq (-),
+,,,,91,4,pm TV,sim,seq (-),
+,,,,91,5,TV,en,end (•),
+92,TDC101 S02 child,00:49:14:20,,92,1,SLEEP,ac,seq (-),1
+,,,,92,2,SLEEP,ac,seq (-),
+,,,,92,3,SLEEP,ac,end (•),
+93,TDC101 S02 child,00:49:21:15,,93,1,shrug,shrug,sim (+),1
+,,,,93,2,flip,flip,seq (-),
+,,,,93,3,self,ar,seq (-),
+,,,,93,4,pm beds,pla,seq (-),
+,,,,93,5,pm beds,pla,seq (-),
+,,,,93,6,self,ar,end (•),
+94,TDC101 S02 child,00:49:23:28,,94,1,couch,en,end (•),1
+95,TDC101 S02 child,00:49:28:09,,95,1,pm toys ,en,end (•),1
+96,TDC101 S02 child,00:50:02:13,,96,1,instruction sheet,en,end (•),1
+97,TDC101 S02 child,00:50:37:03,,97,1,instruction sheet 1,en1,seq (-),1
+,,,,97,2,instruction sheet 2,en2,seq (-),
+,,,,97,3,instruction sheet 3,en3,seq (-),
+,,,,97,4,instruction sheet 4,en4,end (•),
+97,TDC101 S02 child,00:50:37:03,,97,1,instruction sheet 1,en1,seq (-),2
+,,,,97,2,instruction sheet 2,en2,seq (-),
+,,,,97,3,instruction sheet 3,en3,seq (-),
+,,,,97,4,instruction sheet 4,en4,end (•),
+97,TDC101 S02 child,00:50:37:03,,97,1,instruction sheet 1,en1,seq (-),3
+,,,,97,2,instruction sheet 2,en2,seq (-),
+,,,,97,3,instruction sheet 3,en3,seq (-),
+,,,,97,4,instruction sheet 4,en4,end (•),
+97,TDC101 S02 child,00:50:37:03,,97,1,instruction sheet 1,en1,seq (-),4
+,,,,97,2,instruction sheet 2,en2,seq (-),
+,,,,97,3,instruction sheet 3,en3,seq (-),
+,,,,97,4,instruction sheet 4,en4,end (•),
+98,TDC101 S02 child,00:50:43:11,,98,1,shrug,shrug,end (•),1
+99,TDC101 S02 child,00:50:45:15,,99,1,shrug,shrug,end (•),1
+100,TDC101 S02 child,00:50:47:11,,100,1,flip,flip,end (•),1
+101,TDC101 S02 child,00:51:07:03,,101,1,PUT IN,ac,end (•),1
+102,TDC101 S02 child,00:51:21:08,,102,1,laundry line,en,end (•),1
+102.5,TDC101 S02 child,00:51:42:23,,102.5,1,image,en,end (•),1
+103,TDC101 S02 child,00:51:44:22,,103,1,HOLD,ac1,sim (+),1
+,,,,103,2,MOVE CIRCLE,ac2,end (•),
+103,TDC101 S02 child,00:51:44:22,,103,1,HOLD,ac1,sim (+),2
+,,,,103,2,MOVE CIRCLE,ac2,end (•),
+104,TDC101 S02 child,00:52:44:09,,104,1,instruction sheet,en,end (•),1
+105,TDC101 S02 child,00:53:16:21,,105,1,pm person,po,sim (+),1
+,,,,105,2,pm apron,en,end (•),
+105.1,TDC101 S02 child,00:53:23:00,,105.1,1,instruction sheet,en1,seq (-),1
+,,,,105.1,2,bucket,en2,seq (-),
+,,,,105.1,3,clothespins,en3,end (•),
+105.1,TDC101 S02 child,00:53:23:00,,105.1,1,instruction sheet,en1,seq (-),2
+,,,,105.1,2,bucket,en2,seq (-),
+,,,,105.1,3,clothespins,en3,end (•),
+106,TDC101 S02 child,00:53:26:01`,,106,1,instruction sheet,en,end (•),1
+107,TDC101 S02 child,00:53:31:16,,107,1,q,q,seq (-),1
+,,,,107,2,instruction sheet,en2,end (•),
+107,TDC101 S02 child,00:53:31:16,,107,1,q,q,seq (-),2
+,,,,107,2,instruction sheet,en2,end (•),
+109,TDC101 S02 child,00:53:48:23,,109,1,good,good,end (•),1
+109.5,TDC101 S02 child,00:55:05:13,,109.5,1,bag,pa,end (•),1
+110,TDC101 S02 child,00:55:42:01,,110,1,self,en,end (•),1
+111,TDC101 S02 child,00:56:47:27,,111,1,motorcycle,en,end (•),1
+112,TDC101 S02 child,00:57:04:01,,112,1,shrug,shrug,end (•),1
+113,TDC101 S02 child,00:57:08:07,,113,1,motorcycle,en,end (•),1
+114,TDC101 S02 child,00:57:24:17,,114,1,pm dog,en1,seq (-),1
+,,,,114,2,outside,lo2,seq (-),
+,,,,114,3,outside,lo2,end (•),
+114,TDC101 S02 child,00:57:24:17,,114,1,pm dog,en1,seq (-),2
+,,,,114,2,outside,lo2,seq (-),
+,,,,114,3,outside,lo2,end (•),
+115,TDC101 S02 child,00:57:48:03,,115,1,pm cat,en,abt (•),1
+115.5,TDC101 S02 child,00:57:48:29,,115.5,1,wait,wait,end (•),1
+116,TDC101 S02 child,00:57:49:16,,116,1,q,q,end (•),1
+116.2,TDC101 S02 child,00:57:56:28,,116.2,1,flip,flip,seq (-),1
+,,,,116.2,2,flip,flip,end (•),
+116.4,TDC101 S02 child,00:58:02:26,,116.4,1,B-rejection,B-rejection,seq (-),1
+,,,,116.4,2,PICK UP,ac1,seq (-),
+,,,,116.4,3,PUT DOWN,ac2,seq (-),
+,,,,116.4,4,RELEASE,ac3,end (•),
+116.4,TDC101 S02 child,00:58:02:26,,116.4,1,B-rejection,B-rejection,seq (-),2
+,,,,116.4,2,PICK UP,ac1,seq (-),
+,,,,116.4,3,PUT DOWN,ac2,seq (-),
+,,,,116.4,4,RELEASE,ac3,end (•),
+116.4,TDC101 S02 child,00:58:02:26,,116.4,1,B-rejection,B-rejection,seq (-),3
+,,,,116.4,2,PICK UP,ac1,seq (-),
+,,,,116.4,3,PUT DOWN,ac2,seq (-),
+,,,,116.4,4,RELEASE,ac3,end (•),
+117,TDC101 S02 child,00:58:08:23,,117,1,flip,flip,seq (-),1
+,,,,117,2,PICK UP,ac1,seq (-),
+,,,,117,3,PUT DOWN,ac2,seq (-),
+,,,,117,4,flip,flip,seq (-),
+,,,,117,5,q,q,end (•),
+117,TDC101 S02 child,00:58:08:23,,117,1,flip,flip,seq (-),2
+,,,,117,2,PICK UP,ac1,seq (-),
+,,,,117,3,PUT DOWN,ac2,seq (-),
+,,,,117,4,flip,flip,seq (-),
+,,,,117,5,q,q,end (•),
+118,TDC101 S02 child,00:58:10:16,,118,1,JAB,ac,seq (-),1
+,,,,118,2,flip,flip,end (•),
+119,TDC101 S02 child,00:58:25:22,,119,1,B-rejection,B-rejection,end (•),1
+120,TDC101 S02 child,00:58:27:18,,120,1,q,en,end (•),1
+121,TDC101 S02 child,00:58:28:13,,121,1,q,en,end (•),1
+122,TDC101 S02 child,00:58:37:01,,122,1,garbage pail and man,en,end (•),1
+123,TDC101 S02 child,00:58:45:05,,123,1,PICK UP,ac1,seq (-),1
+,,,,123,2,PUT IN,ac2,seq (-),
+,,,,123,3,PICK UP,ac1,seq (-),
+,,,,123,4,PUT IN,ac2,seq (-),
+,,,,123,5,flourish,flourish,end (•),
+123,TDC101 S02 child,00:58:45:05,,123,1,PICK UP,ac1,seq (-),2
+,,,,123,2,PUT IN,ac2,seq (-),
+,,,,123,3,PICK UP,ac1,seq (-),
+,,,,123,4,PUT IN,ac2,seq (-),
+,,,,123,5,flourish,flourish,end (•),
+124,TDC101 S02 child,00:58:49:01,,124,1,shrug,shrug,end (•),1
+125,TDC101 S02 child,00:58:50:29,,125,1,garbage pail,en1,sim (+),1
+,,,,125,2,pm man,en2,end (•),
+125,TDC101 S02 child,00:58:50:29,,125,1,garbage pail,en1,sim (+),2
+,,,,125,2,pm man,en2,end (•),
+126,TDC101 S02 child,00:58:51:24,,126,1,shrug,shrug,end (•),1
+127,TDC101 S02 child,00:59:00:00,,127,1,q,en1,seq (-),1
+,,,,127,2,hurdle,re2,seq (-),
+,,,,127,3,GO TO,ac2,end (•),
+127,TDC101 S02 child,00:59:00:00,,127,1,q,en1,seq (-),2
+,,,,127,2,hurdle,re2,seq (-),
+,,,,127,3,GO TO,ac2,end (•),
+128,TDC101 S02 child,00:59:02:27,,128,1,GO LEFT,ac,seq (-),1
+,,,,128,2,hurdle,re,seq (-),
+,,,,128,3,good,good,end (•),
+129,TDC101 S02 child,00:59:04:15,,129,1,GO UNDER,ac1,seq (-),1
+,,,,129,2,GO UNDER,ac1,end (•),
+130,TDC101 S02 child,00:59:05:10,,130,1,flip,flip,end (•),1
+131,TDC101 S02 child,00:59:07:09,,131,1,bike cover,en,end (•),1
+132,TDC101 S02 child,00:59:22:04,,132,1,shrug,shrug,end (•),1
+133,TDC101 S02 child,00:59:29:28,,133,1,q,en,end (•),1
+134,TDC101 S02 child,00:59:38:27,,134,1,ladder,po,sim (+),1
+,,,,134,2,scaffolding,en,seq (-),
+,,,,134,3,ladder,po,sim (+),
+,,,,134,4,scaffolding,en,end (•),
+135,TDC101 S02 child,01:00:18:27,,135,1,flip,flip,end (•),1
+136,TDC101 S02 child,01:01:01:13,,136,1,shrug,shrug,end (•),1
+137,TDC101 S02 child,01:01:29:00,,137,1,GO BACK AND FORTH,ac,end (•),1
+138,TDC101 S02 child,01:01:30:00,,138,1,GIVE,ac,end (•),1
+139,TDC101 S02 child,01:01:36:22,,139,1,GO BACK AND FORTH,ac,end (•),1
+140,TDC101 S02 child,01:01:39:03,,140,1,pm fish,en,end (•),1
+141,TDC101 S02 child,01:01:42:06,,141,1,hand,en,seq (-),1
+,,,,141,2,flip,flip,end (•),
+142,TDC101 S02 child,01:02:05:26,,142,1,pm man,en,seq (-),1
+,,,,142,2,flip,flip,end (•),
+143,TDC101 S02 child,01:02:12:04,,143,1,self,en,seq (-),1
+,,,,143,2,nod,nod,end (•),
+144,TDC101 S02 child,01:02:17:10,,144,1,pm man,en,sim (+),1
+,,,,144,2,self,sim,seq (-),
+,,,,144,3,pm man,en,sim (+),
+,,,,144,4,self,sim,end (•),
+145,TDC101 S02 child,01:02:21:26,,145,1,pm man,en1,seq (-),1
+,,,,145,2,self,sim1,seq (-),
+,,,,145,3,mother,en2,seq (-),
+,,,,145,4,pm man,sim2/en3/en4,sim (+),
+,,,,145,5,self,sim3,seq (-),
+,,,,145,6,mother,sim4,end (•),
+145,TDC101 S02 child,01:02:21:26,,145,1,pm man,en1,seq (-),2
+,,,,145,2,self,sim1,seq (-),
+,,,,145,3,mother,en2,seq (-),
+,,,,145,4,pm man,sim2/en3/en4,sim (+),
+,,,,145,5,self,sim3,seq (-),
+,,,,145,6,mother,sim4,end (•),
+145,TDC101 S02 child,01:02:21:26,,145,1,pm man,en1,seq (-),3
+,,,,145,2,self,sim1,seq (-),
+,,,,145,3,mother,en2,seq (-),
+,,,,145,4,pm man,sim2/en3/en4,sim (+),
+,,,,145,5,self,sim3,seq (-),
+,,,,145,6,mother,sim4,end (•),
+145,TDC101 S02 child,01:02:21:26,,145,1,pm man,en1,seq (-),4
+,,,,145,2,self,sim1,seq (-),
+,,,,145,3,mother,en2,seq (-),
+,,,,145,4,pm man,sim2/en3/en4,sim (+),
+,,,,145,5,self,sim3,seq (-),
+,,,,145,6,mother,sim4,end (•),
+146,TDC101 S02 child,01:02:24:01,,146,1,pm man 1,en1,seq (-),1
+,,,,146,2,pm man 2,en2,end (•),
+146,TDC101 S02 child,01:02:24:01,,146,1,pm man 1,en1,seq (-),2
+,,,,146,2,pm man 2,en2,end (•),
+147,TDC101 S02 child,01:02:29:29,,147,1,pm man,en1,sim (+),1
+,,,,147,2,dad,sim1/en2/sim3,seq (-),
+,,,,147,3,EXTENT DAD,de2,seq (-),
+,,,,147,4,pm man,en3,sim (+),
+,,,,147,5,dad,sim1/en2/sim3,seq (-),
+,,,,147,6,dad,sim1/en2/sim3,end (•),
+147,TDC101 S02 child,01:02:29:29,,147,1,pm man,en1,sim (+),2
+,,,,147,2,dad,sim1/en2/sim3,seq (-),
+,,,,147,3,EXTENT DAD,de2,seq (-),
+,,,,147,4,pm man,en3,sim (+),
+,,,,147,5,dad,sim1/en2/sim3,seq (-),
+,,,,147,6,dad,sim1/en2/sim3,end (•),
+147,TDC101 S02 child,01:02:29:29,,147,1,pm man,en1,sim (+),3
+,,,,147,2,dad,sim1/en2/sim3,seq (-),
+,,,,147,3,EXTENT DAD,de2,seq (-),
+,,,,147,4,pm man,en3,sim (+),
+,,,,147,5,dad,sim1/en2/sim3,seq (-),
+,,,,147,6,dad,sim1/en2/sim3,end (•),
+148,TDC101 S02 child,00:00:03:24,,148,1,EXIST SHAPE,de1,sim (+),1
+,,,,148,2,TWIST,ac2,seq (-),
+,,,,148,3,flip,flip,seq (-),
+,,,,148,4,q,q,end (•),
+148,TDC101 S02 child,00:00:03:24,,148,1,EXIST SHAPE,de1,sim (+),2
+,,,,148,2,TWIST,ac2,seq (-),
+,,,,148,3,flip,flip,seq (-),
+,,,,148,4,q,q,end (•),
+149,TDC101 S02 child,00:06:26:26,,149,1,pumpkin,en,end (•),1
+150,TDC101 S02 child,00:06:30:04,,150,1,TRACE SMILE,de1,seq (-),1
+,,,,150,2,TRACE CIRCLE,de2,end (•),
+150,TDC101 S02 child,00:06:30:04,,150,1,TRACE SMILE,de1,seq (-),2
+,,,,150,2,TRACE CIRCLE,de2,end (•),
+151,TDC101 S02 child,00:06:31:16,,151,1,pumpkin,en,seq (-),1
+,,,,151,2,good,good,end (•),
+152,TDC101 S02 child,00:06:35:23,,152,1,owl,en1,seq (-),1
+,,,,152,2,walrus,en2,seq (-),
+,,,,152,3,good,good,seq (-),
+,,,,152,4,walrus,en2,seq (-),
+,,,,152,5,good,good,seq (-),
+,,,,152,6,pumpkin,pa3/pa4,seq (-),
+,,,,152,7,MOVE BACK AND FORTH,ac3,sim (+),
+,,,,152,8,BITE,ac4,seq (-),
+,,,,152,9,flip,flip,end (•),
+152,TDC101 S02 child,00:06:35:23,,152,1,owl,en1,seq (-),2
+,,,,152,2,walrus,en2,seq (-),
+,,,,152,3,good,good,seq (-),
+,,,,152,4,walrus,en2,seq (-),
+,,,,152,5,good,good,seq (-),
+,,,,152,6,pumpkin,pa3/pa4,seq (-),
+,,,,152,7,MOVE BACK AND FORTH,ac3,sim (+),
+,,,,152,8,BITE,ac4,seq (-),
+,,,,152,9,flip,flip,end (•),
+152,TDC101 S02 child,00:06:35:23,,152,1,owl,en1,seq (-),3
+,,,,152,2,walrus,en2,seq (-),
+,,,,152,3,good,good,seq (-),
+,,,,152,4,walrus,en2,seq (-),
+,,,,152,5,good,good,seq (-),
+,,,,152,6,pumpkin,pa3/pa4,seq (-),
+,,,,152,7,MOVE BACK AND FORTH,ac3,sim (+),
+,,,,152,8,BITE,ac4,seq (-),
+,,,,152,9,flip,flip,end (•),
+152,TDC101 S02 child,00:06:35:23,,152,1,owl,en1,seq (-),4
+,,,,152,2,walrus,en2,seq (-),
+,,,,152,3,good,good,seq (-),
+,,,,152,4,walrus,en2,seq (-),
+,,,,152,5,good,good,seq (-),
+,,,,152,6,pumpkin,pa3/pa4,seq (-),
+,,,,152,7,MOVE BACK AND FORTH,ac3,sim (+),
+,,,,152,8,BITE,ac4,seq (-),
+,,,,152,9,flip,flip,end (•),
+153,TDC101 S02 child,00:06:40:15,,153,1,good,good,seq (-),1
+,,,,153,2,umbrella,en1,seq (-),
+,,,,153,3,good,good,seq (-),
+,,,,153,4,owl,en2,seq (-),
+,,,,153,5,good,good,end (•),
+153,TDC101 S02 child,00:06:40:15,,153,1,good,good,seq (-),2
+,,,,153,2,umbrella,en1,seq (-),
+,,,,153,3,good,good,seq (-),
+,,,,153,4,owl,en2,seq (-),
+,,,,153,5,good,good,end (•),
+154,TDC101 S02 child,00:06:46:27,,154,1,owl,en1,seq (-),1
+,,,,154,2,good,good,seq (-),
+,,,,154,3,owl,en1,seq (-),
+,,,,154,4,good,good,seq (-),
+,,,,154,5,present,en2,seq (-),
+,,,,154,6,good,good,seq (-),
+,,,,154,7,queen,en3,seq (-),
+,,,,154,8,good,good,seq (-),
+,,,,154,9,turtle,en4,seq (-),
+,,,,154,10,good,good,end (•),
+154,TDC101 S02 child,00:06:46:27,,154,1,owl,en1,seq (-),2
+,,,,154,2,good,good,seq (-),
+,,,,154,3,owl,en1,seq (-),
+,,,,154,4,good,good,seq (-),
+,,,,154,5,present,en2,seq (-),
+,,,,154,6,good,good,seq (-),
+,,,,154,7,queen,en3,seq (-),
+,,,,154,8,good,good,seq (-),
+,,,,154,9,turtle,en4,seq (-),
+,,,,154,10,good,good,end (•),
+154,TDC101 S02 child,00:06:46:27,,154,1,owl,en1,seq (-),3
+,,,,154,2,good,good,seq (-),
+,,,,154,3,owl,en1,seq (-),
+,,,,154,4,good,good,seq (-),
+,,,,154,5,present,en2,seq (-),
+,,,,154,6,good,good,seq (-),
+,,,,154,7,queen,en3,seq (-),
+,,,,154,8,good,good,seq (-),
+,,,,154,9,turtle,en4,seq (-),
+,,,,154,10,good,good,end (•),
+154,TDC101 S02 child,00:06:46:27,,154,1,owl,en1,seq (-),4
+,,,,154,2,good,good,seq (-),
+,,,,154,3,owl,en1,seq (-),
+,,,,154,4,good,good,seq (-),
+,,,,154,5,present,en2,seq (-),
+,,,,154,6,good,good,seq (-),
+,,,,154,7,queen,en3,seq (-),
+,,,,154,8,good,good,seq (-),
+,,,,154,9,turtle,en4,seq (-),
+,,,,154,10,good,good,end (•),
+155,TDC101 S02 child,00:06:49:18,,155,1,TRACE SHELL,de,end (•),1
+156,TDC101 S02 child,00:07:00:27,,156,1,spider,en1,seq (-),1
+,,,,156,2,good,good,seq (-),
+,,,,156,3,spider,en1,seq (-),
+,,,,156,4,good,good,seq (-),
+,,,,156,5,turtle,en2,seq (-),
+,,,,156,6,good,good,seq (-),
+,,,,156,7,zipper,pa4/pa5,seq (-),
+,,,,156,8,good,good,seq (-),
+,,,,156,9,yarn,en3,seq (-),
+,,,,156,10,good,good,seq (-),
+,,,,156,11,zipper,pa4/pa5,seq (-),
+,,,,156,12,PRESS,ac4,sim (+),
+,,,,156,13,MOVE UP,ac5,sim (+),
+,,,,156,14,yarn ,en3,seq (-),
+,,,,156,15,good,good,seq (-),
+,,,,156,16,xylophone,en6,seq (-),
+,,,,156,17,good,good,end (•),
+156,TDC101 S02 child,00:07:00:27,,156,1,spider,en1,seq (-),2
+,,,,156,2,good,good,seq (-),
+,,,,156,3,spider,en1,seq (-),
+,,,,156,4,good,good,seq (-),
+,,,,156,5,turtle,en2,seq (-),
+,,,,156,6,good,good,seq (-),
+,,,,156,7,zipper,pa4/pa5,seq (-),
+,,,,156,8,good,good,seq (-),
+,,,,156,9,yarn,en3,seq (-),
+,,,,156,10,good,good,seq (-),
+,,,,156,11,zipper,pa4/pa5,seq (-),
+,,,,156,12,PRESS,ac4,sim (+),
+,,,,156,13,MOVE UP,ac5,sim (+),
+,,,,156,14,yarn ,en3,seq (-),
+,,,,156,15,good,good,seq (-),
+,,,,156,16,xylophone,en6,seq (-),
+,,,,156,17,good,good,end (•),
+156,TDC101 S02 child,00:07:00:27,,156,1,spider,en1,seq (-),3
+,,,,156,2,good,good,seq (-),
+,,,,156,3,spider,en1,seq (-),
+,,,,156,4,good,good,seq (-),
+,,,,156,5,turtle,en2,seq (-),
+,,,,156,6,good,good,seq (-),
+,,,,156,7,zipper,pa4/pa5,seq (-),
+,,,,156,8,good,good,seq (-),
+,,,,156,9,yarn,en3,seq (-),
+,,,,156,10,good,good,seq (-),
+,,,,156,11,zipper,pa4/pa5,seq (-),
+,,,,156,12,PRESS,ac4,sim (+),
+,,,,156,13,MOVE UP,ac5,sim (+),
+,,,,156,14,yarn ,en3,seq (-),
+,,,,156,15,good,good,seq (-),
+,,,,156,16,xylophone,en6,seq (-),
+,,,,156,17,good,good,end (•),
+156,TDC101 S02 child,00:07:00:27,,156,1,spider,en1,seq (-),4
+,,,,156,2,good,good,seq (-),
+,,,,156,3,spider,en1,seq (-),
+,,,,156,4,good,good,seq (-),
+,,,,156,5,turtle,en2,seq (-),
+,,,,156,6,good,good,seq (-),
+,,,,156,7,zipper,pa4/pa5,seq (-),
+,,,,156,8,good,good,seq (-),
+,,,,156,9,yarn,en3,seq (-),
+,,,,156,10,good,good,seq (-),
+,,,,156,11,zipper,pa4/pa5,seq (-),
+,,,,156,12,PRESS,ac4,sim (+),
+,,,,156,13,MOVE UP,ac5,sim (+),
+,,,,156,14,yarn ,en3,seq (-),
+,,,,156,15,good,good,seq (-),
+,,,,156,16,xylophone,en6,seq (-),
+,,,,156,17,good,good,end (•),
+156,TDC101 S02 child,00:07:00:27,,156,1,spider,en1,seq (-),5
+,,,,156,2,good,good,seq (-),
+,,,,156,3,spider,en1,seq (-),
+,,,,156,4,good,good,seq (-),
+,,,,156,5,turtle,en2,seq (-),
+,,,,156,6,good,good,seq (-),
+,,,,156,7,zipper,pa4/pa5,seq (-),
+,,,,156,8,good,good,seq (-),
+,,,,156,9,yarn,en3,seq (-),
+,,,,156,10,good,good,seq (-),
+,,,,156,11,zipper,pa4/pa5,seq (-),
+,,,,156,12,PRESS,ac4,sim (+),
+,,,,156,13,MOVE UP,ac5,sim (+),
+,,,,156,14,yarn ,en3,seq (-),
+,,,,156,15,good,good,seq (-),
+,,,,156,16,xylophone,en6,seq (-),
+,,,,156,17,good,good,end (•),
+156,TDC101 S02 child,00:07:00:27,,156,1,spider,en1,seq (-),6
+,,,,156,2,good,good,seq (-),
+,,,,156,3,spider,en1,seq (-),
+,,,,156,4,good,good,seq (-),
+,,,,156,5,turtle,en2,seq (-),
+,,,,156,6,good,good,seq (-),
+,,,,156,7,zipper,pa4/pa5,seq (-),
+,,,,156,8,good,good,seq (-),
+,,,,156,9,yarn,en3,seq (-),
+,,,,156,10,good,good,seq (-),
+,,,,156,11,zipper,pa4/pa5,seq (-),
+,,,,156,12,PRESS,ac4,sim (+),
+,,,,156,13,MOVE UP,ac5,sim (+),
+,,,,156,14,yarn ,en3,seq (-),
+,,,,156,15,good,good,seq (-),
+,,,,156,16,xylophone,en6,seq (-),
+,,,,156,17,good,good,end (•),
+157,TDC101 S02 child,00:07:05:18,,157,1,xiphias,po1/ar2/pa3/pa4,seq (-),1
+,,,,157,2,good,good,seq (-),
+,,,,157,3,fin,en1,seq (-),
+,,,,157,4,GO BACK AND FORTH,ac2,seq (-),
+,,,,157,5,PICK UP,ac3,seq (-),
+,,,,157,6,MOVE UP,ac4,sim (+),
+,,,,157,7,CHEW,ac5,end (•),
+157,TDC101 S02 child,00:07:05:18,,157,1,xiphias,po1/ar2/pa3/pa4,seq (-),2
+,,,,157,2,good,good,seq (-),
+,,,,157,3,fin,en1,seq (-),
+,,,,157,4,GO BACK AND FORTH,ac2,seq (-),
+,,,,157,5,PICK UP,ac3,seq (-),
+,,,,157,6,MOVE UP,ac4,sim (+),
+,,,,157,7,CHEW,ac5,end (•),
+157,TDC101 S02 child,00:07:05:18,,157,1,xiphias,po1/ar2/pa3/pa4,seq (-),3
+,,,,157,2,good,good,seq (-),
+,,,,157,3,fin,en1,seq (-),
+,,,,157,4,GO BACK AND FORTH,ac2,seq (-),
+,,,,157,5,PICK UP,ac3,seq (-),
+,,,,157,6,MOVE UP,ac4,sim (+),
+,,,,157,7,CHEW,ac5,end (•),
+157,TDC101 S02 child,00:07:05:18,,157,1,xiphias,po1/ar2/pa3/pa4,seq (-),4
+,,,,157,2,good,good,seq (-),
+,,,,157,3,fin,en1,seq (-),
+,,,,157,4,GO BACK AND FORTH,ac2,seq (-),
+,,,,157,5,PICK UP,ac3,seq (-),
+,,,,157,6,MOVE UP,ac4,sim (+),
+,,,,157,7,CHEW,ac5,end (•),
+157,TDC101 S02 child,00:07:05:18,,157,1,xiphias,po1/ar2/pa3/pa4,seq (-),5
+,,,,157,2,good,good,seq (-),
+,,,,157,3,fin,en1,seq (-),
+,,,,157,4,GO BACK AND FORTH,ac2,seq (-),
+,,,,157,5,PICK UP,ac3,seq (-),
+,,,,157,6,MOVE UP,ac4,sim (+),
+,,,,157,7,CHEW,ac5,end (•),
+158,TDC101 S02 child,00:07:08:01,,158,1,walrus,po,seq (-),1
+,,,,158,2,good,good,seq (-),
+,,,,158,3,tooth,en,seq (-),
+,,,,158,4,tooth,en,end (•),
+159,TDC101 S02 child,00:07:10:00,,159,1,q,q,seq (-),1
+,,,,159,2,EXIST CYLINDER,de,end (•),
+160,TDC101 S02 child,00:07:15:11,,160,1,TRACE MOOSE,de,seq (-),1
+,,,,160,2,good,good,end (•),
+161,TDC101 S02 child,00:07:19:13,,161,1,TRACE MOTH,de,seq (-),1
+,,,,161,2,good,good,end (•),
+162,TDC101 S02 child,00:07:23:21,,162,1,kenny bear ,en,seq (-),1
+,,,,162,2,POSE KENNY BEAR,de,end (•),
+163,TDC101 S02 child,00:07:30:15,,163,1,kenny bear 1,en1/ar4,seq (-),1
+,,,,163,2,good,good,seq (-),
+,,,,163,3,kenny bear 2,en2,seq (-),
+,,,,163,4,good,good,seq (-),
+,,,,163,5,sink,en3,seq (-),
+,,,,163,6,good,good,seq (-),
+,,,,163,7,kenny bear 1,en1/ar4,seq (-),
+,,,,163,8,MOVE AROUND,ac4,end (•),
+163,TDC101 S02 child,00:07:30:15,,163,1,kenny bear 1,en1/ar4,seq (-),2
+,,,,163,2,good,good,seq (-),
+,,,,163,3,kenny bear 2,en2,seq (-),
+,,,,163,4,good,good,seq (-),
+,,,,163,5,sink,en3,seq (-),
+,,,,163,6,good,good,seq (-),
+,,,,163,7,kenny bear 1,en1/ar4,seq (-),
+,,,,163,8,MOVE AROUND,ac4,end (•),
+163,TDC101 S02 child,00:07:30:15,,163,1,kenny bear 1,en1/ar4,seq (-),3
+,,,,163,2,good,good,seq (-),
+,,,,163,3,kenny bear 2,en2,seq (-),
+,,,,163,4,good,good,seq (-),
+,,,,163,5,sink,en3,seq (-),
+,,,,163,6,good,good,seq (-),
+,,,,163,7,kenny bear 1,en1/ar4,seq (-),
+,,,,163,8,MOVE AROUND,ac4,end (•),
+163,TDC101 S02 child,00:07:30:15,,163,1,kenny bear 1,en1/ar4,seq (-),4
+,,,,163,2,good,good,seq (-),
+,,,,163,3,kenny bear 2,en2,seq (-),
+,,,,163,4,good,good,seq (-),
+,,,,163,5,sink,en3,seq (-),
+,,,,163,6,good,good,seq (-),
+,,,,163,7,kenny bear 1,en1/ar4,seq (-),
+,,,,163,8,MOVE AROUND,ac4,end (•),
+164,TDC101 S02 child,00:07:44:02,,164,1,towel,en1,seq (-),1
+,,,,164,2,good,good,seq (-),
+,,,,164,3,kenny bear 1,en2,seq (-),
+,,,,164,4,good,good,seq (-),
+,,,,164,5,kenny bear 2,ar3,seq (-),
+,,,,164,6,good,good,seq (-),
+,,,,164,7,kenny bear 2,ar3,seq (-),
+,,,,164,8,COMB,ac3,seq (-),
+,,,,164,9,COMB,ac3,seq (-),
+,,,,164,10,COMB,q,,
+,,,,164,11,kenny bear 2,ar3,seq (-),
+,,,,164,12,good,good,seq (-),
+,,,,164,13,kenny bear 1,en2,seq (-),
+,,,,164,14,good,good,seq (-),
+,,,,164,15,kenny bear 2,ar3,seq (-),
+,,,,164,16,good,good,seq (-),
+,,,,164,17,kenny bear 3,en4,seq (-),
+,,,,164,18,good,good,seq (-),
+,,,,164,19,table,en5,seq (-),
+,,,,164,20,good,good,seq (-),
+,,,,164,21,maple syrup,en6,seq (-),
+,,,,164,22,table,en5,seq (-),
+,,,,164,23,MOVE UP,ac7,sim (+),
+,,,,164,24,MOVE UP,ac7,sim (+),
+,,,,164,25,MOVE UP,ac7,sim (+),
+,,,,164,26,BITE,ac9,end (•),
+164,TDC101 S02 child,00:07:44:02,,164,1,towel,en1,seq (-),2
+,,,,164,2,good,good,seq (-),
+,,,,164,3,kenny bear 1,en2,seq (-),
+,,,,164,4,good,good,seq (-),
+,,,,164,5,kenny bear 2,ar3,seq (-),
+,,,,164,6,good,good,seq (-),
+,,,,164,7,kenny bear 2,ar3,seq (-),
+,,,,164,8,COMB,ac3,seq (-),
+,,,,164,9,COMB,ac3,seq (-),
+,,,,164,10,COMB,q,,
+,,,,164,11,kenny bear 2,ar3,seq (-),
+,,,,164,12,good,good,seq (-),
+,,,,164,13,kenny bear 1,en2,seq (-),
+,,,,164,14,good,good,seq (-),
+,,,,164,15,kenny bear 2,ar3,seq (-),
+,,,,164,16,good,good,seq (-),
+,,,,164,17,kenny bear 3,en4,seq (-),
+,,,,164,18,good,good,seq (-),
+,,,,164,19,table,en5,seq (-),
+,,,,164,20,good,good,seq (-),
+,,,,164,21,maple syrup,en6,seq (-),
+,,,,164,22,table,en5,seq (-),
+,,,,164,23,MOVE UP,ac7,sim (+),
+,,,,164,24,MOVE UP,ac7,sim (+),
+,,,,164,25,MOVE UP,ac7,sim (+),
+,,,,164,26,BITE,ac9,end (•),
+164,TDC101 S02 child,00:07:44:02,,164,1,towel,en1,seq (-),3
+,,,,164,2,good,good,seq (-),
+,,,,164,3,kenny bear 1,en2,seq (-),
+,,,,164,4,good,good,seq (-),
+,,,,164,5,kenny bear 2,ar3,seq (-),
+,,,,164,6,good,good,seq (-),
+,,,,164,7,kenny bear 2,ar3,seq (-),
+,,,,164,8,COMB,ac3,seq (-),
+,,,,164,9,COMB,ac3,seq (-),
+,,,,164,10,COMB,q,,
+,,,,164,11,kenny bear 2,ar3,seq (-),
+,,,,164,12,good,good,seq (-),
+,,,,164,13,kenny bear 1,en2,seq (-),
+,,,,164,14,good,good,seq (-),
+,,,,164,15,kenny bear 2,ar3,seq (-),
+,,,,164,16,good,good,seq (-),
+,,,,164,17,kenny bear 3,en4,seq (-),
+,,,,164,18,good,good,seq (-),
+,,,,164,19,table,en5,seq (-),
+,,,,164,20,good,good,seq (-),
+,,,,164,21,maple syrup,en6,seq (-),
+,,,,164,22,table,en5,seq (-),
+,,,,164,23,MOVE UP,ac7,sim (+),
+,,,,164,24,MOVE UP,ac7,sim (+),
+,,,,164,25,MOVE UP,ac7,sim (+),
+,,,,164,26,BITE,ac9,end (•),
+164,TDC101 S02 child,00:07:44:02,,164,1,towel,en1,seq (-),4
+,,,,164,2,good,good,seq (-),
+,,,,164,3,kenny bear 1,en2,seq (-),
+,,,,164,4,good,good,seq (-),
+,,,,164,5,kenny bear 2,ar3,seq (-),
+,,,,164,6,good,good,seq (-),
+,,,,164,7,kenny bear 2,ar3,seq (-),
+,,,,164,8,COMB,ac3,seq (-),
+,,,,164,9,COMB,ac3,seq (-),
+,,,,164,10,COMB,q,,
+,,,,164,11,kenny bear 2,ar3,seq (-),
+,,,,164,12,good,good,seq (-),
+,,,,164,13,kenny bear 1,en2,seq (-),
+,,,,164,14,good,good,seq (-),
+,,,,164,15,kenny bear 2,ar3,seq (-),
+,,,,164,16,good,good,seq (-),
+,,,,164,17,kenny bear 3,en4,seq (-),
+,,,,164,18,good,good,seq (-),
+,,,,164,19,table,en5,seq (-),
+,,,,164,20,good,good,seq (-),
+,,,,164,21,maple syrup,en6,seq (-),
+,,,,164,22,table,en5,seq (-),
+,,,,164,23,MOVE UP,ac7,sim (+),
+,,,,164,24,MOVE UP,ac7,sim (+),
+,,,,164,25,MOVE UP,ac7,sim (+),
+,,,,164,26,BITE,ac9,end (•),
+164,TDC101 S02 child,00:07:44:02,,164,1,towel,en1,seq (-),5
+,,,,164,2,good,good,seq (-),
+,,,,164,3,kenny bear 1,en2,seq (-),
+,,,,164,4,good,good,seq (-),
+,,,,164,5,kenny bear 2,ar3,seq (-),
+,,,,164,6,good,good,seq (-),
+,,,,164,7,kenny bear 2,ar3,seq (-),
+,,,,164,8,COMB,ac3,seq (-),
+,,,,164,9,COMB,ac3,seq (-),
+,,,,164,10,COMB,q,,
+,,,,164,11,kenny bear 2,ar3,seq (-),
+,,,,164,12,good,good,seq (-),
+,,,,164,13,kenny bear 1,en2,seq (-),
+,,,,164,14,good,good,seq (-),
+,,,,164,15,kenny bear 2,ar3,seq (-),
+,,,,164,16,good,good,seq (-),
+,,,,164,17,kenny bear 3,en4,seq (-),
+,,,,164,18,good,good,seq (-),
+,,,,164,19,table,en5,seq (-),
+,,,,164,20,good,good,seq (-),
+,,,,164,21,maple syrup,en6,seq (-),
+,,,,164,22,table,en5,seq (-),
+,,,,164,23,MOVE UP,ac7,sim (+),
+,,,,164,24,MOVE UP,ac7,sim (+),
+,,,,164,25,MOVE UP,ac7,sim (+),
+,,,,164,26,BITE,ac9,end (•),
+164,TDC101 S02 child,00:07:44:02,,164,1,towel,en1,seq (-),6
+,,,,164,2,good,good,seq (-),
+,,,,164,3,kenny bear 1,en2,seq (-),
+,,,,164,4,good,good,seq (-),
+,,,,164,5,kenny bear 2,ar3,seq (-),
+,,,,164,6,good,good,seq (-),
+,,,,164,7,kenny bear 2,ar3,seq (-),
+,,,,164,8,COMB,ac3,seq (-),
+,,,,164,9,COMB,ac3,seq (-),
+,,,,164,10,COMB,q,,
+,,,,164,11,kenny bear 2,ar3,seq (-),
+,,,,164,12,good,good,seq (-),
+,,,,164,13,kenny bear 1,en2,seq (-),
+,,,,164,14,good,good,seq (-),
+,,,,164,15,kenny bear 2,ar3,seq (-),
+,,,,164,16,good,good,seq (-),
+,,,,164,17,kenny bear 3,en4,seq (-),
+,,,,164,18,good,good,seq (-),
+,,,,164,19,table,en5,seq (-),
+,,,,164,20,good,good,seq (-),
+,,,,164,21,maple syrup,en6,seq (-),
+,,,,164,22,table,en5,seq (-),
+,,,,164,23,MOVE UP,ac7,sim (+),
+,,,,164,24,MOVE UP,ac7,sim (+),
+,,,,164,25,MOVE UP,ac7,sim (+),
+,,,,164,26,BITE,ac9,end (•),
+164,TDC101 S02 child,00:07:44:02,,164,1,towel,en1,seq (-),7
+,,,,164,2,good,good,seq (-),
+,,,,164,3,kenny bear 1,en2,seq (-),
+,,,,164,4,good,good,seq (-),
+,,,,164,5,kenny bear 2,ar3,seq (-),
+,,,,164,6,good,good,seq (-),
+,,,,164,7,kenny bear 2,ar3,seq (-),
+,,,,164,8,COMB,ac3,seq (-),
+,,,,164,9,COMB,ac3,seq (-),
+,,,,164,10,COMB,q,,
+,,,,164,11,kenny bear 2,ar3,seq (-),
+,,,,164,12,good,good,seq (-),
+,,,,164,13,kenny bear 1,en2,seq (-),
+,,,,164,14,good,good,seq (-),
+,,,,164,15,kenny bear 2,ar3,seq (-),
+,,,,164,16,good,good,seq (-),
+,,,,164,17,kenny bear 3,en4,seq (-),
+,,,,164,18,good,good,seq (-),
+,,,,164,19,table,en5,seq (-),
+,,,,164,20,good,good,seq (-),
+,,,,164,21,maple syrup,en6,seq (-),
+,,,,164,22,table,en5,seq (-),
+,,,,164,23,MOVE UP,ac7,sim (+),
+,,,,164,24,MOVE UP,ac7,sim (+),
+,,,,164,25,MOVE UP,ac7,sim (+),
+,,,,164,26,BITE,ac9,end (•),
+164,TDC101 S02 child,00:07:44:02,,164,1,towel,en1,seq (-),8
+,,,,164,2,good,good,seq (-),
+,,,,164,3,kenny bear 1,en2,seq (-),
+,,,,164,4,good,good,seq (-),
+,,,,164,5,kenny bear 2,ar3,seq (-),
+,,,,164,6,good,good,seq (-),
+,,,,164,7,kenny bear 2,ar3,seq (-),
+,,,,164,8,COMB,ac3,seq (-),
+,,,,164,9,COMB,ac3,seq (-),
+,,,,164,10,COMB,q,,
+,,,,164,11,kenny bear 2,ar3,seq (-),
+,,,,164,12,good,good,seq (-),
+,,,,164,13,kenny bear 1,en2,seq (-),
+,,,,164,14,good,good,seq (-),
+,,,,164,15,kenny bear 2,ar3,seq (-),
+,,,,164,16,good,good,seq (-),
+,,,,164,17,kenny bear 3,en4,seq (-),
+,,,,164,18,good,good,seq (-),
+,,,,164,19,table,en5,seq (-),
+,,,,164,20,good,good,seq (-),
+,,,,164,21,maple syrup,en6,seq (-),
+,,,,164,22,table,en5,seq (-),
+,,,,164,23,MOVE UP,ac7,sim (+),
+,,,,164,24,MOVE UP,ac7,sim (+),
+,,,,164,25,MOVE UP,ac7,sim (+),
+,,,,164,26,BITE,ac9,end (•),
+164.5,TDC101 S02 child,00:07:50:27,,164.5,1,TEETHBRUSH,ac,end (•),1
+164.7,TDC101 S02 child,00:07:57:02,,164.7,1,PULL DOWN,ac1,sim (+),1
+,,,,164.7,2,GO UP,ac2,seq (-),
+,,,,164.7,3,good,good,end (•),
+164.7,TDC101 S02 child,00:07:57:02,,164.7,1,PULL DOWN,ac1,sim (+),2
+,,,,164.7,2,GO UP,ac2,seq (-),
+,,,,164.7,3,good,good,end (•),
+165,TDC101 S02 child,00:08:07:11,,165,1,carrots,pa1/pa3,seq (-),1
+,,,,165,2,HOLD ROUND SHAPE,ac1,sim (+),
+,,,,165,3,CHEW,ac3,seq (-),
+,,,,165,4,MOVE BACK AND FORTH,ac2,sim (+),
+,,,,165,5,CHEW,ac3,seq (-),
+,,,,165,6,MOVE BACK AND FORTH ,ac2,end (•),
+165,TDC101 S02 child,00:08:07:11,,165,1,carrots,pa1/pa3,seq (-),2
+,,,,165,2,HOLD ROUND SHAPE,ac1,sim (+),
+,,,,165,3,CHEW,ac3,seq (-),
+,,,,165,4,MOVE BACK AND FORTH,ac2,sim (+),
+,,,,165,5,CHEW,ac3,seq (-),
+,,,,165,6,MOVE BACK AND FORTH ,ac2,end (•),
+165,TDC101 S02 child,00:08:07:11,,165,1,carrots,pa1/pa3,seq (-),3
+,,,,165,2,HOLD ROUND SHAPE,ac1,sim (+),
+,,,,165,3,CHEW,ac3,seq (-),
+,,,,165,4,MOVE BACK AND FORTH,ac2,sim (+),
+,,,,165,5,CHEW,ac3,seq (-),
+,,,,165,6,MOVE BACK AND FORTH ,ac2,end (•),
+166,TDC101 S02 child,00:08:08:05,,166,1,self,en,end (•),1
+167,TDC101 S02 child,00:08:14:28,,167,1,molly,ar1,seq (-),1
+,,,,167,2,TICKLE,ac1,seq (-),
+,,,,167,3,foot,sim2,end (•),
+167,TDC101 S02 child,00:08:14:28,,167,1,molly,ar1,seq (-),2
+,,,,167,2,TICKLE,ac1,seq (-),
+,,,,167,3,foot,sim2,end (•),
+168,TDC101 S02 child,00:08:17:27,,168,1,foot,en1,seq (-),1
+,,,,168,2,foot,en1,seq (-),
+,,,,168,3,EXTENT FOOT,de1,seq (-),
+,,,,168,4,PULL,ac2,seq (-),
+,,,,168,5,MOVE AROUND,ac3,end (•),
+168,TDC101 S02 child,00:08:17:27,,168,1,foot,en1,seq (-),2
+,,,,168,2,foot,en1,seq (-),
+,,,,168,3,EXTENT FOOT,de1,seq (-),
+,,,,168,4,PULL,ac2,seq (-),
+,,,,168,5,MOVE AROUND,ac3,end (•),
+168,TDC101 S02 child,00:08:17:27,,168,1,foot,en1,seq (-),3
+,,,,168,2,foot,en1,seq (-),
+,,,,168,3,EXTENT FOOT,de1,seq (-),
+,,,,168,4,PULL,ac2,seq (-),
+,,,,168,5,MOVE AROUND,ac3,end (•),
+169,TDC101 S02 child,00:08:28:15,,169,1,elephant trunk,en,seq (-),1
+,,,,169,2,good,good,seq (-),
+,,,,169,3,TRACE TRUNK,de,end (•),
+170,TDC101 S02 child,00:08:29:18,,170,1,good,good,end (•),1
+171,TDC101 S02 child,00:08:34:13,,171,1,blocks,en,seq (-),1
+,,,,171,2,EXTENT BLOCKS,de,end (•),
+172,TDC101 S02 child,00:08:37:09,,172,1,building set,en,seq (-),1
+,,,,172,2,EXTENT BUILDING SET,de,end (•),
+173,TDC101 S02 child,00:08:42:26,,173,1,q,en1,seq (-),1
+,,,,173,2,truck,en2,seq (-),
+,,,,173,3,loader,en3,seq (-),
+,,,,173,4,loader,en2,end (•),
+173,TDC101 S02 child,00:08:42:26,,173,1,q,en1,seq (-),2
+,,,,173,2,truck,en2,seq (-),
+,,,,173,3,loader,en3,seq (-),
+,,,,173,4,loader,en2,end (•),
+173,TDC101 S02 child,00:08:42:26,,173,1,q,en1,seq (-),3
+,,,,173,2,truck,en2,seq (-),
+,,,,173,3,loader,en3,seq (-),
+,,,,173,4,loader,en2,end (•),
+174,TDC101 S02 child,00:08:45:04,,174,1,floor,q,seq (-),1
+,,,,174,2,floor,q,seq (-),
+,,,,174,3,point in space,q,seq (-),
+176,TDC101 S02 child,00:08:45:28,,176,1,point in space,q,seq (-),1
+,,,,176,2,point in space,q,end (•),
+177,TDC101 S02 child,00:08:47:13,,177,1,point in space,q,seq (-),1
+,,,,177,2,point in space,q,seq (-),
+,,,,177,3,point in space,q,seq (-),
+,,,,177,4,point in space,q,end (•),
+178,TDC101 S02 child,00:08:50:29,,178,1,flip,flip,end (•),1
+179,TDC101 S02 child,00:08:51:29,,179,1,flip,flip,end (•),1
+180,TDC101 S02 child,00:08:56:00,,180,1,EXTENT SEESAW,de1,seq (-),1
+,,,,180,2,bear,en2/ar3,seq (-),
+,,,,180,3,GO DOWN,ac3,end (•),
+180,TDC101 S02 child,00:08:56:00,,180,1,EXTENT SEESAW,de1,seq (-),2
+,,,,180,2,bear,en2/ar3,seq (-),
+,,,,180,3,GO DOWN,ac3,end (•),
+180,TDC101 S02 child,00:08:56:00,,180,1,EXTENT SEESAW,de1,seq (-),3
+,,,,180,2,bear,en2/ar3,seq (-),
+,,,,180,3,GO DOWN,ac3,end (•),
+181,TDC101 S02 child,00:08:56:15,,181,1,GO UP AND DOWN,ac,end (•),1
+182,TDC101 S02 child,00:08:57:27,,182,1,TRACE JUNGLE GYM,de,end (•),1
+183,TDC101 S02 child,00:09:03:00,,183,1,GO UP AND DOWN,ac,end (•),1
+184,TDC101 S02 child,00:09:06:28,,184,1,PICK UP,ac1,seq (-),1
+,,,,184,2,GRASP,ac2,sim (+),
+,,,,184,3,GO UP,ac3,end (•),
+184,TDC101 S02 child,00:09:06:28,,184,1,PICK UP,ac1,seq (-),2
+,,,,184,2,GRASP,ac2,sim (+),
+,,,,184,3,GO UP,ac3,end (•),
+184,TDC101 S02 child,00:09:06:28,,184,1,PICK UP,ac1,seq (-),3
+,,,,184,2,GRASP,ac2,sim (+),
+,,,,184,3,GO UP,ac3,end (•),
+185,TDC101 S02 child,00:09:11:25,,185,1,HOLD ,ac1,seq (-),1
+,,,,185,2,MOVE UP,ac2,end (•),
+185,TDC101 S02 child,00:09:11:25,,185,1,HOLD ,ac1,seq (-),2
+,,,,185,2,MOVE UP,ac2,end (•),
+186,TDC101 S02 child,00:09:12:24,,186,1,cat,en,end (•),1
+187,TDC101 S02 child,00:09:16:10,,187,1,hoop,pa1/pa2/pa3,seq (-),1
+,,,,187,2,HOLD,ac1,seq (-),
+,,,,187,3,HOLD,ac1,sim (+),
+,,,,187,4,MOVE DOWN,ac2,seq (-),
+,,,,187,5,MOVE BACK,ac3,seq (-),
+,,,,187,6,MOVE BACK,ac3,end (•),
+187,TDC101 S02 child,00:09:16:10,,187,1,hoop,pa1/pa2/pa3,seq (-),2
+,,,,187,2,HOLD,ac1,seq (-),
+,,,,187,3,HOLD,ac1,sim (+),
+,,,,187,4,MOVE DOWN,ac2,seq (-),
+,,,,187,5,MOVE BACK,ac3,seq (-),
+,,,,187,6,MOVE BACK,ac3,end (•),
+187,TDC101 S02 child,00:09:16:10,,187,1,hoop,pa1/pa2/pa3,seq (-),3
+,,,,187,2,HOLD,ac1,seq (-),
+,,,,187,3,HOLD,ac1,sim (+),
+,,,,187,4,MOVE DOWN,ac2,seq (-),
+,,,,187,5,MOVE BACK,ac3,seq (-),
+,,,,187,6,MOVE BACK,ac3,end (•),
+188,TDC101 S02 child,00:09:19:11,,188,1,HOLD,q,seq (-),1
+,,,,188,2,PICK UP,q,seq (-),
+,,,,188,3,TRACE ARC,q,seq (-),
+,,,,188,4,q,q,seq (-),
+,,,,188,5,GO UP,q,seq (-),
+,,,,188,6,q,q,end (•),
+189,TDC101 S02 child,00:09:24:25,,189,1,jungle gym,en1,seq (-),1
+,,,,189,2,lisa,en2,seq (-),
+,,,,189,3,jungle gym,en1,seq (-),
+,,,,189,4,cat,en3,seq (-),
+,,,,189,5,bear,en4,seq (-),
+,,,,189,6,rabbit,en5,seq (-),
+,,,,189,7,flip,flip,sim (+),
+,,,,189,8,shrug,shrug,seq (-),
+,,,,189,9,flip,flip,end (•),
+189,TDC101 S02 child,00:09:24:25,,189,1,jungle gym,en1,seq (-),2
+,,,,189,2,lisa,en2,seq (-),
+,,,,189,3,jungle gym,en1,seq (-),
+,,,,189,4,cat,en3,seq (-),
+,,,,189,5,bear,en4,seq (-),
+,,,,189,6,rabbit,en5,seq (-),
+,,,,189,7,flip,flip,sim (+),
+,,,,189,8,shrug,shrug,seq (-),
+,,,,189,9,flip,flip,end (•),
+189,TDC101 S02 child,00:09:24:25,,189,1,jungle gym,en1,seq (-),3
+,,,,189,2,lisa,en2,seq (-),
+,,,,189,3,jungle gym,en1,seq (-),
+,,,,189,4,cat,en3,seq (-),
+,,,,189,5,bear,en4,seq (-),
+,,,,189,6,rabbit,en5,seq (-),
+,,,,189,7,flip,flip,sim (+),
+,,,,189,8,shrug,shrug,seq (-),
+,,,,189,9,flip,flip,end (•),
+189,TDC101 S02 child,00:09:24:25,,189,1,jungle gym,en1,seq (-),4
+,,,,189,2,lisa,en2,seq (-),
+,,,,189,3,jungle gym,en1,seq (-),
+,,,,189,4,cat,en3,seq (-),
+,,,,189,5,bear,en4,seq (-),
+,,,,189,6,rabbit,en5,seq (-),
+,,,,189,7,flip,flip,sim (+),
+,,,,189,8,shrug,shrug,seq (-),
+,,,,189,9,flip,flip,end (•),
+189,TDC101 S02 child,00:09:24:25,,189,1,jungle gym,en1,seq (-),5
+,,,,189,2,lisa,en2,seq (-),
+,,,,189,3,jungle gym,en1,seq (-),
+,,,,189,4,cat,en3,seq (-),
+,,,,189,5,bear,en4,seq (-),
+,,,,189,6,rabbit,en5,seq (-),
+,,,,189,7,flip,flip,sim (+),
+,,,,189,8,shrug,shrug,seq (-),
+,,,,189,9,flip,flip,end (•),
+190,TDC101 S02 child,00:09:25:18,,190,1,EXTENT SLIDE,de,end (•),1
+191,TDC101 S02 child,00:09:35:13,,191,1,flip,flip,seq (-),1
+,,,,191,2,cat,ar1/ar2,seq (-),
+,,,,191,3,MOVE AROUND,ac1,sim (+),
+,,,,191,4,GO UP AND DOWN,ac2,end (•),
+191,TDC101 S02 child,00:09:35:13,,191,1,flip,flip,seq (-),2
+,,,,191,2,cat,ar1/ar2,seq (-),
+,,,,191,3,MOVE AROUND,ac1,sim (+),
+,,,,191,4,GO UP AND DOWN,ac2,end (•),
+192,TDC101 S02 child,00:09:57:23,,192,1,helicopter,ar,seq (-),1
+,,,,192,2,GO LEFT,ac,seq (-),
+,,,,192,3,q,q,end (•),
+193,TDC101 S02 child,00:10:03:17,,193,1,light plane,ar1,seq (-),1
+,,,,193,2,GO LEFT ,ac1,seq (-),
+,,,,193,3,jet plane,ar2,seq (-),
+,,,,193,4,GO LEFT,ac2,seq (-),
+,,,,193,5,jet passenger plane,ar3,seq (-),
+,,,,193,6,GO LEFT,ac3,end (•),
+193,TDC101 S02 child,00:10:03:17,,193,1,light plane,ar1,seq (-),2
+,,,,193,2,GO LEFT ,ac1,seq (-),
+,,,,193,3,jet plane,ar2,seq (-),
+,,,,193,4,GO LEFT,ac2,seq (-),
+,,,,193,5,jet passenger plane,ar3,seq (-),
+,,,,193,6,GO LEFT,ac3,end (•),
+193,TDC101 S02 child,00:10:03:17,,193,1,light plane,ar1,seq (-),3
+,,,,193,2,GO LEFT ,ac1,seq (-),
+,,,,193,3,jet plane,ar2,seq (-),
+,,,,193,4,GO LEFT,ac2,seq (-),
+,,,,193,5,jet passenger plane,ar3,seq (-),
+,,,,193,6,GO LEFT,ac3,end (•),
+194,TDC101 S02 child,00:10:11:15,,194,1,blimp,ar,seq (-),1
+,,,,194,2,GO LEFT,ac,end (•),
+195,TDC101 S02 child,00:10:13:15,,195,1,fox,ar,seq (-),1
+,,,,195,2,GO UP,ac,end (•),
+196,TDC101 S02 child,00:10:18:00,,196,1,runway,en1,seq (-),1
+,,,,196,2,EXIST FLAT SHAPE,de1,seq (-),
+,,,,196,3,page,en2,seq (-),
+,,,,196,4,Q,q,seq (-),
+,,,,196,5,wave,wave,end (•),
+196,TDC101 S02 child,00:10:18:00,,196,1,runway,en1,seq (-),2
+,,,,196,2,EXIST FLAT SHAPE,de1,seq (-),
+,,,,196,3,page,en2,seq (-),
+,,,,196,4,Q,q,seq (-),
+,,,,196,5,wave,wave,end (•),
+196,TDC101 S02 child,00:10:18:00,,196,1,runway,en1,seq (-),3
+,,,,196,2,EXIST FLAT SHAPE,de1,seq (-),
+,,,,196,3,page,en2,seq (-),
+,,,,196,4,Q,q,seq (-),
+,,,,196,5,wave,wave,end (•),
+197,TDC101 S02 child,00:10:20:05,,197,1,flip,flip,end (•),1
+198,TDC101 S02 child,00:10:21:21,,198,1,book,en,seq (-),1
+,,,,198,2,flip,flip,end (•),
+199,TDC101 S02 child,00:10:40:09,,199,1,puzzle piece,en,seq (-),1
+,,,,199,2,good,good,seq (-),
+,,,,199,3,puzzle piece,en,end (•),
+200,TDC101 S02 child,00:10:53:13,,200,1,flip,flip,seq (-),1
+,,,,200,2,PRESS ,ac,seq (-),
+,,,,200,3,shrug,shrug,seq (-),
+,,,,200,4,flip,flip,end (•),
+201,TDC101 S02 child,00:11:08:08,,201,1,tigger,en1,seq (-),1
+,,,,201,2,rabbit,en2,end (•),
+201,TDC101 S02 child,00:11:08:08,,201,1,tigger,en1,seq (-),2
+,,,,201,2,rabbit,en2,end (•),
+202,TDC101 S02 child,00:11:09:17,,202,1,POSE RABBIT,de,end (•),1
+203,TDC101 S02 child,00:11:10:29,,203,1,tigger,en,seq (-),1
+,,,,203,2,q,q,end (•),
+204,TDC101 S02 child,00:11:12:10,,204,1,roo,ar1,seq (-),1
+,,,,204,2,MOVE TO,ac2,end (•),
+205,TDC101 S02 child,00:11:14:17,,205,1,kangaroo,ar,seq (-),1
+,,,,205,2,SWEEP,ac,end (•),
+206,TDC101 S02 child,00:11:16:06,,206,1,HOLD,ac,end (•),1
+207,TDC101 S02 child,00:11:18:17,,207,1,wobble,wobble,end (•),1
+208,TDC101 S02 child,00:11:57:07,,208,1,TRACE CORNER,de,end (•),1
+209,TDC101 S02 child,00:13:45:17,,209,1,play surface,en,seq (-),1
+,,,,209,2,flip,flip,seq (-),
+,,,,209,3,flip,flip,end (•),
+210,TDC101 S02 child,00:13:55:04,,210,1,self,en,seq (-),1
+,,,,210,2,success,ma,end (•),
+211,TDC101 S02 child,00:14:09:10,,211,1,puzzle piece,en1,seq (-),1
+,,,,211,2,Pooh,ar2,seq (-),
+,,,,211,3,PAT,ac2,seq (-),
+,,,,211,4,EXIST ROUND SHAPE,de3,seq (-),
+,,,,211,5,HOLD,ac4,sim (+),
+,,,,211,6,PAT,ac5,seq (-),
+,,,,211,7,ROTATE,ac6,sim (+),
+,,,,211,8,PAT,ac5,sim (+),
+,,,,211,9,HOLD,ac7,seq (-),
+,,,,211,10,THROW,ac8,end (•),
+211,TDC101 S02 child,00:14:09:10,,211,1,puzzle piece,en1,seq (-),2
+,,,,211,2,Pooh,ar2,seq (-),
+,,,,211,3,PAT,ac2,seq (-),
+,,,,211,4,EXIST ROUND SHAPE,de3,seq (-),
+,,,,211,5,HOLD,ac4,sim (+),
+,,,,211,6,PAT,ac5,seq (-),
+,,,,211,7,ROTATE,ac6,sim (+),
+,,,,211,8,PAT,ac5,sim (+),
+,,,,211,9,HOLD,ac7,seq (-),
+,,,,211,10,THROW,ac8,end (•),
+211,TDC101 S02 child,00:14:09:10,,211,1,puzzle piece,en1,seq (-),3
+,,,,211,2,Pooh,ar2,seq (-),
+,,,,211,3,PAT,ac2,seq (-),
+,,,,211,4,EXIST ROUND SHAPE,de3,seq (-),
+,,,,211,5,HOLD,ac4,sim (+),
+,,,,211,6,PAT,ac5,seq (-),
+,,,,211,7,ROTATE,ac6,sim (+),
+,,,,211,8,PAT,ac5,sim (+),
+,,,,211,9,HOLD,ac7,seq (-),
+,,,,211,10,THROW,ac8,end (•),
+211,TDC101 S02 child,00:14:09:10,,211,1,puzzle piece,en1,seq (-),4
+,,,,211,2,Pooh,ar2,seq (-),
+,,,,211,3,PAT,ac2,seq (-),
+,,,,211,4,EXIST ROUND SHAPE,de3,seq (-),
+,,,,211,5,HOLD,ac4,sim (+),
+,,,,211,6,PAT,ac5,seq (-),
+,,,,211,7,ROTATE,ac6,sim (+),
+,,,,211,8,PAT,ac5,sim (+),
+,,,,211,9,HOLD,ac7,seq (-),
+,,,,211,10,THROW,ac8,end (•),
+211,TDC101 S02 child,00:14:09:10,,211,1,puzzle piece,en1,seq (-),5
+,,,,211,2,Pooh,ar2,seq (-),
+,,,,211,3,PAT,ac2,seq (-),
+,,,,211,4,EXIST ROUND SHAPE,de3,seq (-),
+,,,,211,5,HOLD,ac4,sim (+),
+,,,,211,6,PAT,ac5,seq (-),
+,,,,211,7,ROTATE,ac6,sim (+),
+,,,,211,8,PAT,ac5,sim (+),
+,,,,211,9,HOLD,ac7,seq (-),
+,,,,211,10,THROW,ac8,end (•),
+211,TDC101 S02 child,00:14:09:10,,211,1,puzzle piece,en1,seq (-),6
+,,,,211,2,Pooh,ar2,seq (-),
+,,,,211,3,PAT,ac2,seq (-),
+,,,,211,4,EXIST ROUND SHAPE,de3,seq (-),
+,,,,211,5,HOLD,ac4,sim (+),
+,,,,211,6,PAT,ac5,seq (-),
+,,,,211,7,ROTATE,ac6,sim (+),
+,,,,211,8,PAT,ac5,sim (+),
+,,,,211,9,HOLD,ac7,seq (-),
+,,,,211,10,THROW,ac8,end (•),
+211,TDC101 S02 child,00:14:09:10,,211,1,puzzle piece,en1,seq (-),7
+,,,,211,2,Pooh,ar2,seq (-),
+,,,,211,3,PAT,ac2,seq (-),
+,,,,211,4,EXIST ROUND SHAPE,de3,seq (-),
+,,,,211,5,HOLD,ac4,sim (+),
+,,,,211,6,PAT,ac5,seq (-),
+,,,,211,7,ROTATE,ac6,sim (+),
+,,,,211,8,PAT,ac5,sim (+),
+,,,,211,9,HOLD,ac7,seq (-),
+,,,,211,10,THROW,ac8,end (•),
+211,TDC101 S02 child,00:14:09:10,,211,1,puzzle piece,en1,seq (-),8
+,,,,211,2,Pooh,ar2,seq (-),
+,,,,211,3,PAT,ac2,seq (-),
+,,,,211,4,EXIST ROUND SHAPE,de3,seq (-),
+,,,,211,5,HOLD,ac4,sim (+),
+,,,,211,6,PAT,ac5,seq (-),
+,,,,211,7,ROTATE,ac6,sim (+),
+,,,,211,8,PAT,ac5,sim (+),
+,,,,211,9,HOLD,ac7,seq (-),
+,,,,211,10,THROW,ac8,end (•),
+212,TDC101 S02 child,00:14:18:12,,212,1,EXTENT SPHERE,de1,seq (-),1
+,,,,212,2,MOVE RIGHT,ac2,sim (+),
+,,,,212,3,PUT DOWN,ac3,seq (-),
+,,,,212,4,PICK UP,ac4,end (•),
+212,TDC101 S02 child,00:14:18:12,,212,1,EXTENT SPHERE,de1,seq (-),2
+,,,,212,2,MOVE RIGHT,ac2,sim (+),
+,,,,212,3,PUT DOWN,ac3,seq (-),
+,,,,212,4,PICK UP,ac4,end (•),
+212,TDC101 S02 child,00:14:18:12,,212,1,EXTENT SPHERE,de1,seq (-),3
+,,,,212,2,MOVE RIGHT,ac2,sim (+),
+,,,,212,3,PUT DOWN,ac3,seq (-),
+,,,,212,4,PICK UP,ac4,end (•),
+212,TDC101 S02 child,00:14:18:12,,212,1,EXTENT SPHERE,de1,seq (-),4
+,,,,212,2,MOVE RIGHT,ac2,sim (+),
+,,,,212,3,PUT DOWN,ac3,seq (-),
+,,,,212,4,PICK UP,ac4,end (•),
+213,TDC101 S02 child,00:14:26:04,,213,1,HOLD,ac1,seq (-),1
+,,,,213,2,MOVE TO,ac2,seq (-),
+,,,,213,3,HOLD,ac1,sim (+),
+,,,,213,4,tigger,ar1/ar2/ar3,seq (-),
+,,,,213,5,MOVE TO,ac2,sim (+),
+,,,,213,6,CHEW,ac3,end (•),
+213,TDC101 S02 child,00:14:26:04,,213,1,HOLD,ac1,seq (-),2
+,,,,213,2,MOVE TO,ac2,seq (-),
+,,,,213,3,HOLD,ac1,sim (+),
+,,,,213,4,tigger,ar1/ar2/ar3,seq (-),
+,,,,213,5,MOVE TO,ac2,sim (+),
+,,,,213,6,CHEW,ac3,end (•),
+213,TDC101 S02 child,00:14:26:04,,213,1,HOLD,ac1,seq (-),3
+,,,,213,2,MOVE TO,ac2,seq (-),
+,,,,213,3,HOLD,ac1,sim (+),
+,,,,213,4,tigger,ar1/ar2/ar3,seq (-),
+,,,,213,5,MOVE TO,ac2,sim (+),
+,,,,213,6,CHEW,ac3,end (•),
+214,TDC101 S02 child,00:16:32:15,,214,1,play surface,en,seq (-),1
+,,,,214,2,play surface,en,seq (-),
+,,,,214,3,flip,flip,end (•),
+215,TDC101 S02 child,00:16:53:25,,215,1,play surface,en,seq (-),1
+,,,,215,2,flip,flip,end (•),
+216,TDC101 S02 child,00:17:14:10,,216,1,owl,en1,seq (-),1
+,,,,216,2,pooh,en2,seq (-),
+,,,,216,3,pooh,en2,seq (-),
+,,,,216,4,tigger,en3,end (•),
+216,TDC101 S02 child,00:17:14:10,,216,1,owl,en1,seq (-),2
+,,,,216,2,pooh,en2,seq (-),
+,,,,216,3,pooh,en2,seq (-),
+,,,,216,4,tigger,en3,end (•),
+216,TDC101 S02 child,00:17:14:10,,216,1,owl,en1,seq (-),3
+,,,,216,2,pooh,en2,seq (-),
+,,,,216,3,pooh,en2,seq (-),
+,,,,216,4,tigger,en3,end (•),
+216.3,TDC101 S02 child,00:17:15:21,,216.3,1,rabbit,en,end (•),1
+216.5,TDC101 S02 child,00:17:17:25,,216.5,1,roo,en1,seq (-),1
+,,,,216.5,2,kanga,en2,seq (-),
+,,,,216.5,3,piglet,en3,end (•),
+216.5,TDC101 S02 child,00:17:17:25,,216.5,1,roo,en1,seq (-),2
+,,,,216.5,2,kanga,en2,seq (-),
+,,,,216.5,3,piglet,en3,end (•),
+216.5,TDC101 S02 child,00:17:17:25,,216.5,1,roo,en1,seq (-),3
+,,,,216.5,2,kanga,en2,seq (-),
+,,,,216.5,3,piglet,en3,end (•),
+216.7,TDC101 S02 child,00:17:19:21,,216.7,1,owl,en,seq (-),1
+,,,,216.7,1,flip,flip,end (•),
+217,TDC101 S02 child,00:18:06:27,,217,1,piglet,en1,seq (-),1
+,,,,217,2,piglet,en1,seq (-),
+,,,,217,3,piglet,en1,seq (-),
+,,,,217,4,piglet,en1,seq (-),
+,,,,217,5,piglet,en1,seq (-),
+,,,,217,6,piglet,en1,seq (-),
+,,,,217,7,owl,en2,seq (-),
+,,,,217,8,flip,flip,seq (-),
+,,,,217,9,owl,en2,seq (-),
+,,,,217,10,owl,en2,seq (-),
+,,,,217,11,owl,en2,seq (-),
+,,,,217,12,owl,en2,seq (-),
+,,,,217,13,owl,en2,seq (-),
+,,,,217,14,flip,flip,seq (-),
+,,,,217,15,owl,en2,end (•),
+217,TDC101 S02 child,00:18:06:27,,217,1,piglet,en1,seq (-),2
+,,,,217,2,piglet,en1,seq (-),
+,,,,217,3,piglet,en1,seq (-),
+,,,,217,4,piglet,en1,seq (-),
+,,,,217,5,piglet,en1,seq (-),
+,,,,217,6,piglet,en1,seq (-),
+,,,,217,7,owl,en2,seq (-),
+,,,,217,8,flip,flip,seq (-),
+,,,,217,9,owl,en2,seq (-),
+,,,,217,10,owl,en2,seq (-),
+,,,,217,11,owl,en2,seq (-),
+,,,,217,12,owl,en2,seq (-),
+,,,,217,13,owl,en2,seq (-),
+,,,,217,14,flip,flip,seq (-),
+,,,,217,15,owl,en2,end (•),
+218,TDC101 S02 child,00:18:20:00,,218,1,pooh,en1,seq (-),1
+,,,,218,2,sun,en2,seq (-),
+,,,,218,3,tree,en3,seq (-),
+,,,,218,4,pooh,en1,end (•),
+218,TDC101 S02 child,00:18:20:00,,218,1,pooh,en1,seq (-),2
+,,,,218,2,sun,en2,seq (-),
+,,,,218,3,tree,en3,seq (-),
+,,,,218,4,pooh,en1,end (•),
+218,TDC101 S02 child,00:18:20:00,,218,1,pooh,en1,seq (-),3
+,,,,218,2,sun,en2,seq (-),
+,,,,218,3,tree,en3,seq (-),
+,,,,218,4,pooh,en1,end (•),
+219,TDC101 S02 child,00:18:42:00,,219,1,rabbit,en1,seq (-),1
+,,,,219,2,rabbit,en1,seq (-),
+,,,,219,3,self,en2,end (•),
+219,TDC101 S02 child,00:18:42:00,,219,1,rabbit,en1,seq (-),2
+,,,,219,2,rabbit,en1,seq (-),
+,,,,219,3,self,en2,end (•),
+220,TDC101 S02 child,00:19:01:21,,220,1,carrots,pa1/pa2,seq (-),1
+,,,,220,2,HOLD ,ac1,sim (+),
+,,,,220,3,CHEW,ac2,end (•),
+220,TDC101 S02 child,00:19:01:21,,220,1,carrots,pa1/pa2,seq (-),2
+,,,,220,2,HOLD ,ac1,sim (+),
+,,,,220,3,CHEW,ac2,end (•),
+221,TDC101 S02 child,00:19:08:23,,221,1,piglet,ar,seq (-),1
+,,,,221,2,HOLD,ac,abt (•),
+221.5,TDC101 S02 child,00:19:09:24,,221.5,1,MOVE LEFT,ac1,sim (+),1
+,,,,221.5,2,CHEW,ac2,end (•),
+221.5,TDC101 S02 child,00:19:09:24,,221.5,1,MOVE LEFT,ac1,sim (+),2
+,,,,221.5,2,CHEW,ac2,end (•),
+222,TDC101 S02 child,00:19:50:27,,222,1,pooh,en2,seq (-),1
+,,,,222,2,EXIST SHAPE,de1,seq (-),
+,,,,222,3,EXIST SHAPE,de1,seq (-),
+,,,,222,4,flip,flip,end (•),
+222,TDC101 S02 child,00:19:50:27,,222,1,pooh,en2,seq (-),2
+,,,,222,2,EXIST SHAPE,de1,seq (-),
+,,,,222,3,EXIST SHAPE,de1,seq (-),
+,,,,222,4,flip,flip,end (•),
+223,TDC101 S02 child,00:19:58:00,,223,1,puzzle,en1,seq (-),1
+,,,,223,2,q,q,seq (-),
+,,,,223,3,piglet,en2,seq (-),
+,,,,223,4,q,q,seq (-),
+,,,,223,5,rabbit,en3,seq (-),
+,,,,223,6,q,q,seq (-),
+,,,,223,7,tigger,en4,seq (-),
+,,,,223,8,q,q,seq (-),
+,,,,223,9,pooh,en5,seq (-),
+,,,,223,10,q,q,seq (-),
+,,,,223,11,q,q,seq (-),
+,,,,223,12,q,q,seq (-),
+,,,,223,13,roo,en6,seq (-),
+,,,,223,14,q,q,end (•),
+223,TDC101 S02 child,00:19:58:00,,223,1,puzzle,en1,seq (-),2
+,,,,223,2,q,q,seq (-),
+,,,,223,3,piglet,en2,seq (-),
+,,,,223,4,q,q,seq (-),
+,,,,223,5,rabbit,en3,seq (-),
+,,,,223,6,q,q,seq (-),
+,,,,223,7,tigger,en4,seq (-),
+,,,,223,8,q,q,seq (-),
+,,,,223,9,pooh,en5,seq (-),
+,,,,223,10,q,q,seq (-),
+,,,,223,11,q,q,seq (-),
+,,,,223,12,q,q,seq (-),
+,,,,223,13,roo,en6,seq (-),
+,,,,223,14,q,q,end (•),
+223,TDC101 S02 child,00:19:58:00,,223,1,puzzle,en1,seq (-),3
+,,,,223,2,q,q,seq (-),
+,,,,223,3,piglet,en2,seq (-),
+,,,,223,4,q,q,seq (-),
+,,,,223,5,rabbit,en3,seq (-),
+,,,,223,6,q,q,seq (-),
+,,,,223,7,tigger,en4,seq (-),
+,,,,223,8,q,q,seq (-),
+,,,,223,9,pooh,en5,seq (-),
+,,,,223,10,q,q,seq (-),
+,,,,223,11,q,q,seq (-),
+,,,,223,12,q,q,seq (-),
+,,,,223,13,roo,en6,seq (-),
+,,,,223,14,q,q,end (•),
+223,TDC101 S02 child,00:19:58:00,,223,1,puzzle,en1,seq (-),4
+,,,,223,2,q,q,seq (-),
+,,,,223,3,piglet,en2,seq (-),
+,,,,223,4,q,q,seq (-),
+,,,,223,5,rabbit,en3,seq (-),
+,,,,223,6,q,q,seq (-),
+,,,,223,7,tigger,en4,seq (-),
+,,,,223,8,q,q,seq (-),
+,,,,223,9,pooh,en5,seq (-),
+,,,,223,10,q,q,seq (-),
+,,,,223,11,q,q,seq (-),
+,,,,223,12,q,q,seq (-),
+,,,,223,13,roo,en6,seq (-),
+,,,,223,14,q,q,end (•),
+223,TDC101 S02 child,00:19:58:00,,223,1,puzzle,en1,seq (-),5
+,,,,223,2,q,q,seq (-),
+,,,,223,3,piglet,en2,seq (-),
+,,,,223,4,q,q,seq (-),
+,,,,223,5,rabbit,en3,seq (-),
+,,,,223,6,q,q,seq (-),
+,,,,223,7,tigger,en4,seq (-),
+,,,,223,8,q,q,seq (-),
+,,,,223,9,pooh,en5,seq (-),
+,,,,223,10,q,q,seq (-),
+,,,,223,11,q,q,seq (-),
+,,,,223,12,q,q,seq (-),
+,,,,223,13,roo,en6,seq (-),
+,,,,223,14,q,q,end (•),
+223,TDC101 S02 child,00:19:58:00,,223,1,puzzle,en1,seq (-),6
+,,,,223,2,q,q,seq (-),
+,,,,223,3,piglet,en2,seq (-),
+,,,,223,4,q,q,seq (-),
+,,,,223,5,rabbit,en3,seq (-),
+,,,,223,6,q,q,seq (-),
+,,,,223,7,tigger,en4,seq (-),
+,,,,223,8,q,q,seq (-),
+,,,,223,9,pooh,en5,seq (-),
+,,,,223,10,q,q,seq (-),
+,,,,223,11,q,q,seq (-),
+,,,,223,12,q,q,seq (-),
+,,,,223,13,roo,en6,seq (-),
+,,,,223,14,q,q,end (•),
+224,TDC101 S02 child,00:20:01:12,,224,1,roo,en,seq (-),1
+,,,,224,2,q,q,end (•),
+225,TDC101 S02 child,00:20:15:00,,225,1,q,q,seq (-),2
+,,,,225,2,q,en,seq (-),
+,,,,225,3,q,q,end (•),
+226,TDC101 S02 child,00:21:01:10,,226,1,index finger,en1,seq (-),1
+,,,,226,2,index finger,en1,sim (+),
+,,,,226,3,right index finger,en1,seq (-),
+,,,,226,4,right index finger,en1,seq (-),
+,,,,226,5,mouth,en2,seq (-),
+,,,,226,6,mouth,en2,seq (-),
+,,,,226,7,q,en3,end (•),
+226,TDC101 S02 child,00:21:01:10,,226,1,index finger,en1,seq (-),2
+,,,,226,2,index finger,en1,sim (+),
+,,,,226,3,right index finger,en1,seq (-),
+,,,,226,4,right index finger,en1,seq (-),
+,,,,226,5,mouth,en2,seq (-),
+,,,,226,6,mouth,en2,seq (-),
+,,,,226,7,q,en3,end (•),
+226,TDC101 S02 child,00:21:01:10,,226,1,index finger,en1,seq (-),3
+,,,,226,2,index finger,en1,sim (+),
+,,,,226,3,right index finger,en1,seq (-),
+,,,,226,4,right index finger,en1,seq (-),
+,,,,226,5,mouth,en2,seq (-),
+,,,,226,6,mouth,en2,seq (-),
+,,,,226,7,q,en3,end (•),
+227,TDC101 S02 child,00:21:03:29,,227,1,q,en,end (•),1
+228,TDC101 S02 child,00:22:33:15,,228,1,roof,en1,seq (-),1
+,,,,228,2,flip,flip,seq (-),
+,,,,228,3,bumper,en2,seq (-),
+,,,,228,4,bumper,en2,seq (-),
+,,,,228,5,wheel,en3,end (•),
+228,TDC101 S02 child,00:22:33:15,,228,1,roof,en1,seq (-),2
+,,,,228,2,flip,flip,seq (-),
+,,,,228,3,bumper,en2,seq (-),
+,,,,228,4,bumper,en2,seq (-),
+,,,,228,5,wheel,en3,end (•),
+228,TDC101 S02 child,00:22:33:15,,228,1,roof,en1,seq (-),3
+,,,,228,2,flip,flip,seq (-),
+,,,,228,3,bumper,en2,seq (-),
+,,,,228,4,bumper,en2,seq (-),
+,,,,228,5,wheel,en3,end (•),
+229,TDC101 S02 child,00:23:48:17,,229,1,PICK UP ,ac1,seq (-),1
+,,,,229,2,HOLD,ac2,seq (-),
+,,,,229,3,PICK UP,ac3,seq (-),
+,,,,229,4,PUT DOWN,ac4,seq (-),
+,,,,229,5,PICK UP,ac5,seq (-),
+,,,,229,6,PICK UP,ac6,seq (-),
+,,,,229,7,EXIST FLAT SHAPE,de7,seq (-),
+,,,,229,8,PICK UP,ac8,seq (-),
+,,,,229,9,PUT DOWN,ac9,seq (-),
+,,,,229,10,PICK UP,ac10,seq (-),
+,,,,229,11,MOVE TO,ac11,seq (-),
+,,,,229,12,ROTATE,ac12,seq (-),
+,,,,229,13,left palm,en13,seq (-),
+,,,,229,14,left palm,en13,seq (-),
+,,,,229,15,left palm,en13,seq (-),
+,,,,229,16,left palm,en13,seq (-),
+,,,,229,17,EXTENT PALM,de13,end (•),
+229,TDC101 S02 child,00:23:48:17,,229,1,PICK UP ,ac1,seq (-),2
+,,,,229,2,HOLD,ac2,seq (-),
+,,,,229,3,PICK UP,ac3,seq (-),
+,,,,229,4,PUT DOWN,ac4,seq (-),
+,,,,229,5,PICK UP,ac5,seq (-),
+,,,,229,6,PICK UP,ac6,seq (-),
+,,,,229,7,EXIST FLAT SHAPE,de7,seq (-),
+,,,,229,8,PICK UP,ac8,seq (-),
+,,,,229,9,PUT DOWN,ac9,seq (-),
+,,,,229,10,PICK UP,ac10,seq (-),
+,,,,229,11,MOVE TO,ac11,seq (-),
+,,,,229,12,ROTATE,ac12,seq (-),
+,,,,229,13,left palm,en13,seq (-),
+,,,,229,14,left palm,en13,seq (-),
+,,,,229,15,left palm,en13,seq (-),
+,,,,229,16,left palm,en13,seq (-),
+,,,,229,17,EXTENT PALM,de13,end (•),
+229,TDC101 S02 child,00:23:48:17,,229,1,PICK UP ,ac1,seq (-),3
+,,,,229,2,HOLD,ac2,seq (-),
+,,,,229,3,PICK UP,ac3,seq (-),
+,,,,229,4,PUT DOWN,ac4,seq (-),
+,,,,229,5,PICK UP,ac5,seq (-),
+,,,,229,6,PICK UP,ac6,seq (-),
+,,,,229,7,EXIST FLAT SHAPE,de7,seq (-),
+,,,,229,8,PICK UP,ac8,seq (-),
+,,,,229,9,PUT DOWN,ac9,seq (-),
+,,,,229,10,PICK UP,ac10,seq (-),
+,,,,229,11,MOVE TO,ac11,seq (-),
+,,,,229,12,ROTATE,ac12,seq (-),
+,,,,229,13,left palm,en13,seq (-),
+,,,,229,14,left palm,en13,seq (-),
+,,,,229,15,left palm,en13,seq (-),
+,,,,229,16,left palm,en13,seq (-),
+,,,,229,17,EXTENT PALM,de13,end (•),
+229,TDC101 S02 child,00:23:48:17,,229,1,PICK UP ,ac1,seq (-),4
+,,,,229,2,HOLD,ac2,seq (-),
+,,,,229,3,PICK UP,ac3,seq (-),
+,,,,229,4,PUT DOWN,ac4,seq (-),
+,,,,229,5,PICK UP,ac5,seq (-),
+,,,,229,6,PICK UP,ac6,seq (-),
+,,,,229,7,EXIST FLAT SHAPE,de7,seq (-),
+,,,,229,8,PICK UP,ac8,seq (-),
+,,,,229,9,PUT DOWN,ac9,seq (-),
+,,,,229,10,PICK UP,ac10,seq (-),
+,,,,229,11,MOVE TO,ac11,seq (-),
+,,,,229,12,ROTATE,ac12,seq (-),
+,,,,229,13,left palm,en13,seq (-),
+,,,,229,14,left palm,en13,seq (-),
+,,,,229,15,left palm,en13,seq (-),
+,,,,229,16,left palm,en13,seq (-),
+,,,,229,17,EXTENT PALM,de13,end (•),
+229,TDC101 S02 child,00:23:48:17,,229,1,PICK UP ,ac1,seq (-),5
+,,,,229,2,HOLD,ac2,seq (-),
+,,,,229,3,PICK UP,ac3,seq (-),
+,,,,229,4,PUT DOWN,ac4,seq (-),
+,,,,229,5,PICK UP,ac5,seq (-),
+,,,,229,6,PICK UP,ac6,seq (-),
+,,,,229,7,EXIST FLAT SHAPE,de7,seq (-),
+,,,,229,8,PICK UP,ac8,seq (-),
+,,,,229,9,PUT DOWN,ac9,seq (-),
+,,,,229,10,PICK UP,ac10,seq (-),
+,,,,229,11,MOVE TO,ac11,seq (-),
+,,,,229,12,ROTATE,ac12,seq (-),
+,,,,229,13,left palm,en13,seq (-),
+,,,,229,14,left palm,en13,seq (-),
+,,,,229,15,left palm,en13,seq (-),
+,,,,229,16,left palm,en13,seq (-),
+,,,,229,17,EXTENT PALM,de13,end (•),
+229,TDC101 S02 child,00:23:48:17,,229,1,PICK UP ,ac1,seq (-),6
+,,,,229,2,HOLD,ac2,seq (-),
+,,,,229,3,PICK UP,ac3,seq (-),
+,,,,229,4,PUT DOWN,ac4,seq (-),
+,,,,229,5,PICK UP,ac5,seq (-),
+,,,,229,6,PICK UP,ac6,seq (-),
+,,,,229,7,EXIST FLAT SHAPE,de7,seq (-),
+,,,,229,8,PICK UP,ac8,seq (-),
+,,,,229,9,PUT DOWN,ac9,seq (-),
+,,,,229,10,PICK UP,ac10,seq (-),
+,,,,229,11,MOVE TO,ac11,seq (-),
+,,,,229,12,ROTATE,ac12,seq (-),
+,,,,229,13,left palm,en13,seq (-),
+,,,,229,14,left palm,en13,seq (-),
+,,,,229,15,left palm,en13,seq (-),
+,,,,229,16,left palm,en13,seq (-),
+,,,,229,17,EXTENT PALM,de13,end (•),
+229,TDC101 S02 child,00:23:48:17,,229,1,PICK UP ,ac1,seq (-),7
+,,,,229,2,HOLD,ac2,seq (-),
+,,,,229,3,PICK UP,ac3,seq (-),
+,,,,229,4,PUT DOWN,ac4,seq (-),
+,,,,229,5,PICK UP,ac5,seq (-),
+,,,,229,6,PICK UP,ac6,seq (-),
+,,,,229,7,EXIST FLAT SHAPE,de7,seq (-),
+,,,,229,8,PICK UP,ac8,seq (-),
+,,,,229,9,PUT DOWN,ac9,seq (-),
+,,,,229,10,PICK UP,ac10,seq (-),
+,,,,229,11,MOVE TO,ac11,seq (-),
+,,,,229,12,ROTATE,ac12,seq (-),
+,,,,229,13,left palm,en13,seq (-),
+,,,,229,14,left palm,en13,seq (-),
+,,,,229,15,left palm,en13,seq (-),
+,,,,229,16,left palm,en13,seq (-),
+,,,,229,17,EXTENT PALM,de13,end (•),
+229,TDC101 S02 child,00:23:48:17,,229,1,PICK UP ,ac1,seq (-),8
+,,,,229,2,HOLD,ac2,seq (-),
+,,,,229,3,PICK UP,ac3,seq (-),
+,,,,229,4,PUT DOWN,ac4,seq (-),
+,,,,229,5,PICK UP,ac5,seq (-),
+,,,,229,6,PICK UP,ac6,seq (-),
+,,,,229,7,EXIST FLAT SHAPE,de7,seq (-),
+,,,,229,8,PICK UP,ac8,seq (-),
+,,,,229,9,PUT DOWN,ac9,seq (-),
+,,,,229,10,PICK UP,ac10,seq (-),
+,,,,229,11,MOVE TO,ac11,seq (-),
+,,,,229,12,ROTATE,ac12,seq (-),
+,,,,229,13,left palm,en13,seq (-),
+,,,,229,14,left palm,en13,seq (-),
+,,,,229,15,left palm,en13,seq (-),
+,,,,229,16,left palm,en13,seq (-),
+,,,,229,17,EXTENT PALM,de13,end (•),
+229,TDC101 S02 child,00:23:48:17,,229,1,PICK UP ,ac1,seq (-),9
+,,,,229,2,HOLD,ac2,seq (-),
+,,,,229,3,PICK UP,ac3,seq (-),
+,,,,229,4,PUT DOWN,ac4,seq (-),
+,,,,229,5,PICK UP,ac5,seq (-),
+,,,,229,6,PICK UP,ac6,seq (-),
+,,,,229,7,EXIST FLAT SHAPE,de7,seq (-),
+,,,,229,8,PICK UP,ac8,seq (-),
+,,,,229,9,PUT DOWN,ac9,seq (-),
+,,,,229,10,PICK UP,ac10,seq (-),
+,,,,229,11,MOVE TO,ac11,seq (-),
+,,,,229,12,ROTATE,ac12,seq (-),
+,,,,229,13,left palm,en13,seq (-),
+,,,,229,14,left palm,en13,seq (-),
+,,,,229,15,left palm,en13,seq (-),
+,,,,229,16,left palm,en13,seq (-),
+,,,,229,17,EXTENT PALM,de13,end (•),
+229,TDC101 S02 child,00:23:48:17,,229,1,PICK UP ,ac1,seq (-),10
+,,,,229,2,HOLD,ac2,seq (-),
+,,,,229,3,PICK UP,ac3,seq (-),
+,,,,229,4,PUT DOWN,ac4,seq (-),
+,,,,229,5,PICK UP,ac5,seq (-),
+,,,,229,6,PICK UP,ac6,seq (-),
+,,,,229,7,EXIST FLAT SHAPE,de7,seq (-),
+,,,,229,8,PICK UP,ac8,seq (-),
+,,,,229,9,PUT DOWN,ac9,seq (-),
+,,,,229,10,PICK UP,ac10,seq (-),
+,,,,229,11,MOVE TO,ac11,seq (-),
+,,,,229,12,ROTATE,ac12,seq (-),
+,,,,229,13,left palm,en13,seq (-),
+,,,,229,14,left palm,en13,seq (-),
+,,,,229,15,left palm,en13,seq (-),
+,,,,229,16,left palm,en13,seq (-),
+,,,,229,17,EXTENT PALM,de13,end (•),
+229,TDC101 S02 child,00:23:48:17,,229,1,PICK UP ,ac1,seq (-),11
+,,,,229,2,HOLD,ac2,seq (-),
+,,,,229,3,PICK UP,ac3,seq (-),
+,,,,229,4,PUT DOWN,ac4,seq (-),
+,,,,229,5,PICK UP,ac5,seq (-),
+,,,,229,6,PICK UP,ac6,seq (-),
+,,,,229,7,EXIST FLAT SHAPE,de7,seq (-),
+,,,,229,8,PICK UP,ac8,seq (-),
+,,,,229,9,PUT DOWN,ac9,seq (-),
+,,,,229,10,PICK UP,ac10,seq (-),
+,,,,229,11,MOVE TO,ac11,seq (-),
+,,,,229,12,ROTATE,ac12,seq (-),
+,,,,229,13,left palm,en13,seq (-),
+,,,,229,14,left palm,en13,seq (-),
+,,,,229,15,left palm,en13,seq (-),
+,,,,229,16,left palm,en13,seq (-),
+,,,,229,17,EXTENT PALM,de13,end (•),
+229,TDC101 S02 child,00:23:48:17,,229,1,PICK UP ,ac1,seq (-),12
+,,,,229,2,HOLD,ac2,seq (-),
+,,,,229,3,PICK UP,ac3,seq (-),
+,,,,229,4,PUT DOWN,ac4,seq (-),
+,,,,229,5,PICK UP,ac5,seq (-),
+,,,,229,6,PICK UP,ac6,seq (-),
+,,,,229,7,EXIST FLAT SHAPE,de7,seq (-),
+,,,,229,8,PICK UP,ac8,seq (-),
+,,,,229,9,PUT DOWN,ac9,seq (-),
+,,,,229,10,PICK UP,ac10,seq (-),
+,,,,229,11,MOVE TO,ac11,seq (-),
+,,,,229,12,ROTATE,ac12,seq (-),
+,,,,229,13,left palm,en13,seq (-),
+,,,,229,14,left palm,en13,seq (-),
+,,,,229,15,left palm,en13,seq (-),
+,,,,229,16,left palm,en13,seq (-),
+,,,,229,17,EXTENT PALM,de13,end (•),
+229,TDC101 S02 child,00:23:48:17,,229,1,PICK UP ,ac1,seq (-),13
+,,,,229,2,HOLD,ac2,seq (-),
+,,,,229,3,PICK UP,ac3,seq (-),
+,,,,229,4,PUT DOWN,ac4,seq (-),
+,,,,229,5,PICK UP,ac5,seq (-),
+,,,,229,6,PICK UP,ac6,seq (-),
+,,,,229,7,EXIST FLAT SHAPE,de7,seq (-),
+,,,,229,8,PICK UP,ac8,seq (-),
+,,,,229,9,PUT DOWN,ac9,seq (-),
+,,,,229,10,PICK UP,ac10,seq (-),
+,,,,229,11,MOVE TO,ac11,seq (-),
+,,,,229,12,ROTATE,ac12,seq (-),
+,,,,229,13,left palm,en13,seq (-),
+,,,,229,14,left palm,en13,seq (-),
+,,,,229,15,left palm,en13,seq (-),
+,,,,229,16,left palm,en13,seq (-),
+,,,,229,17,EXTENT PALM,de13,end (•),
+230,TDC101 S02 child,00:23:50:08,,230,1,EXIST FLAT SHAPE,de1,sim (+),1
+,,,,230,2,left palm,en1,seq (-),
+,,,,230,3,left palm,en1,seq (-),
+,,,,230,4,experimenter,en2,end (•),
+230,TDC101 S02 child,00:23:50:08,,230,1,EXIST FLAT SHAPE,de1,sim (+),2
+,,,,230,2,left palm,en1,seq (-),
+,,,,230,3,left palm,en1,seq (-),
+,,,,230,4,experimenter,en2,end (•),
+230.5,TDC101 S02 child,00:26:35:18,,230.5,1,GO UP AND DOWN,ac,end (•),1
+,,,,230.5,2,snail,ar,end (•),
+231,TDC101 S02 child,00:26:38:17,,231,1,GO UP AND DOWN,ac,end (•),1
+232,TDC101 S02 child,00:28:12:17,,232,1,GO BACK AND FORTH,ac,end (•),1
+233,TDC101 S02 child,00:32:26:10,,233,1,wobble,wobble,end (•),1
+234,TDC101 S02 child,00:32:34:24,,234,1,GIVE,ac,end (•),1
+235,TDC101 S02 child,00:33:11:28,,235,1,GIVE,ac,seq (-),1
+,,,,235,2,self,re,end (•),
+236,TDC101 S02 child,00:34:29:04,,236,1,GIVE,ac,seq (-),1
+,,,,236,2,experimenter,re,end (•),
+237,TDC101 S02 child,00:34:37:17,,237,1,experimenter ,re,seq (-),1
+,,,,237,2,toy,pa,seq (-),
+,,,,237,3,BRING,ac,end (•),
+238,TDC101 S02 child,00:35:27:19,,238,1,wobble,wobble,end (•),1
+239,TDC101 S02 child,00:35:54:17,,239,1,q1,en1,seq (-),1
+,,,,239,2,q2,en2,end (•),
+239,TDC101 S02 child,00:35:54:17,,239,1,q1,en1,seq (-),2
+,,,,239,2,q2,en2,end (•),
+240,TDC101 S02 child,00:35:56:22,,240,1,q1,en1,seq (-),1
+,,,,240,2,q2,en2,end (•),
+240,TDC101 S02 child,00:35:56:22,,240,1,q1,en1,seq (-),2
+,,,,240,2,q2,en2,end (•),
+241,TDC101 S02 child,00:36:25:18,,241,1,q,en1,seq (-),1
+,,,,241,2,MOVE UP,ac2,sim (+),
+,,,,241,3,STROKE,ac3,end (•),
+241,TDC101 S02 child,00:36:25:18,,241,1,q,en1,seq (-),2
+,,,,241,2,MOVE UP,ac2,sim (+),
+,,,,241,3,STROKE,ac3,end (•),
+241,TDC101 S02 child,00:36:25:18,,241,1,q,en1,seq (-),3
+,,,,241,2,MOVE UP,ac2,sim (+),
+,,,,241,3,STROKE,ac3,end (•),
+242,TDC101 S02 child,00:36:43:19,,242,1,GIVE,ac,end (•),1
+243,TDC101 S02 child,00:38:05:07,,243,1,PUT DOWN,ac,seq (-),1
+,,,,243,2,PUT DOWN,ac,end (•),
+244,TDC101 S02 child,00:41:55:19,,244,1,EXIST SHAPE,de1,sim (+),1
+,,,,244,2,HOLD,ac2,seq (-),
+,,,,244,3,PULL APART,ac3,end (•),
+244,TDC101 S02 child,00:41:55:19,,244,1,EXIST SHAPE,de1,sim (+),2
+,,,,244,2,HOLD,ac2,seq (-),
+,,,,244,3,PULL APART,ac3,end (•),
+244,TDC101 S02 child,00:41:55:19,,244,1,EXIST SHAPE,de1,sim (+),3
+,,,,244,2,HOLD,ac2,seq (-),
+,,,,244,3,PULL APART,ac3,end (•),
+245,TDC101 S02 child,00:42:50:24,,245,1,B-rejection,B-rejection,seq (-),1
+,,,,245,2,bag,en1,seq (-),
+,,,,245,3,bag,en1,seq (-),
+,,,,245,4,EXIST SHAPE,de2,seq (-),
+,,,,245,5,PINCH,ac3,seq (-),
+,,,,245,6,PINCH,ac3,seq (-),
+,,,,245,7,PINCH,ac3,seq (-),
+,,,,245,8,PINCH,ac3,seq (-),
+,,,,245,9,experimenter,en4,seq (-),
+,,,,245,10,self,en5,end (•),
+245,TDC101 S02 child,00:42:50:24,,245,1,B-rejection,B-rejection,seq (-),2
+,,,,245,2,bag,en1,seq (-),
+,,,,245,3,bag,en1,seq (-),
+,,,,245,4,EXIST SHAPE,de2,seq (-),
+,,,,245,5,PINCH,ac3,seq (-),
+,,,,245,6,PINCH,ac3,seq (-),
+,,,,245,7,PINCH,ac3,seq (-),
+,,,,245,8,PINCH,ac3,seq (-),
+,,,,245,9,experimenter,en4,seq (-),
+,,,,245,10,self,en5,end (•),
+245,TDC101 S02 child,00:42:50:24,,245,1,B-rejection,B-rejection,seq (-),3
+,,,,245,2,bag,en1,seq (-),
+,,,,245,3,bag,en1,seq (-),
+,,,,245,4,EXIST SHAPE,de2,seq (-),
+,,,,245,5,PINCH,ac3,seq (-),
+,,,,245,6,PINCH,ac3,seq (-),
+,,,,245,7,PINCH,ac3,seq (-),
+,,,,245,8,PINCH,ac3,seq (-),
+,,,,245,9,experimenter,en4,seq (-),
+,,,,245,10,self,en5,end (•),
+245,TDC101 S02 child,00:42:50:24,,245,1,B-rejection,B-rejection,seq (-),4
+,,,,245,2,bag,en1,seq (-),
+,,,,245,3,bag,en1,seq (-),
+,,,,245,4,EXIST SHAPE,de2,seq (-),
+,,,,245,5,PINCH,ac3,seq (-),
+,,,,245,6,PINCH,ac3,seq (-),
+,,,,245,7,PINCH,ac3,seq (-),
+,,,,245,8,PINCH,ac3,seq (-),
+,,,,245,9,experimenter,en4,seq (-),
+,,,,245,10,self,en5,end (•),
+245,TDC101 S02 child,00:42:50:24,,245,1,B-rejection,B-rejection,seq (-),5
+,,,,245,2,bag,en1,seq (-),
+,,,,245,3,bag,en1,seq (-),
+,,,,245,4,EXIST SHAPE,de2,seq (-),
+,,,,245,5,PINCH,ac3,seq (-),
+,,,,245,6,PINCH,ac3,seq (-),
+,,,,245,7,PINCH,ac3,seq (-),
+,,,,245,8,PINCH,ac3,seq (-),
+,,,,245,9,experimenter,en4,seq (-),
+,,,,245,10,self,en5,end (•),
+246,TDC101 S02 child,00:44:24:07,,246,1,bag,en1,seq (-),1
+,,,,246,2,bag,en1,seq (-),
+,,,,246,3,bag,en1,seq (-),
+,,,,246,4,bag,en1,seq (-),
+,,,,246,5,bag,en1,seq (-),
+,,,,246,6,bag,en1,seq (-),
+,,,,246,7,bag,en1,sim (+),
+,,,,246,8,bag,en1,seq (-),
+,,,,246,9,bag,en1,seq (-),
+,,,,246,10,bag,en1,seq (-),
+,,,,246,11,self,en2,end (•),
+246,TDC101 S02 child,00:44:24:07,,246,1,bag,en1,seq (-),2
+,,,,246,2,bag,en1,seq (-),
+,,,,246,3,bag,en1,seq (-),
+,,,,246,4,bag,en1,seq (-),
+,,,,246,5,bag,en1,seq (-),
+,,,,246,6,bag,en1,seq (-),
+,,,,246,7,bag,en1,sim (+),
+,,,,246,8,bag,en1,seq (-),
+,,,,246,9,bag,en1,seq (-),
+,,,,246,10,bag,en1,seq (-),
+,,,,246,11,self,en2,end (•),
+247,TDC101 S02 child,00:44:27:04,,247,1,bag,en1,sim (+),1
+,,,,247,2,bag,en1,seq (-),
+,,,,247,3,self,en2,seq (-),
+,,,,247,4,self,en2,end (•),
+247,TDC101 S02 child,00:44:27:04,,247,1,bag,en1,sim (+),2
+,,,,247,2,bag,en1,seq (-),
+,,,,247,3,self,en2,seq (-),
+,,,,247,4,self,en2,end (•),
+248,TDC101 S02 child,00:44:38:04,,248,1,self,re,end (•),1
+249,TDC101 S02 child,00:46:52:16,,249,1,self,en,end (•),1
+250,TDC101 S02 child,00:46:53:18,,250,1,self,en,end (•),1

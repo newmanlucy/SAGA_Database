@@ -1,0 +1,103 @@
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ENGLAND/BRITISH_GESTURE/BRI_HP/Vignettes/lollipop/BRI_HP_lo_11: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ENGLAND/BRITISH_GESTURE/BRI_SI/Vignettes/book/BRI_SI_bo_11: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ENGLAND/BSL/BSL_AL/Tweety/BSL_AL_Tweety: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ENGLAND/BSL/BSL_CM/Vignettes/lollipop/BSL_CM_lo_07v: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ENGLAND/BSL/BSL_WS/Vignettes/lollipop/BSL_WS_lo_07.mp4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/ITALIAN_GESTURE/ITA_AS/Vignettes/lollipop/ITA_AS_lo_10.mp4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/ITALIAN_GESTURE/ITA_AS/Vignettes/pen/ITA_AS_pe_11.mp4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/ITALIAN_GESTURE/ITA_BS/Padden/ITA_BS_Nouns.mov: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/ITALIAN_GESTURE/ITA_BS/Padden/ITA_BS_Actions.mov: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/ITALIAN_GESTURE/ITA_ME/Padden/ITA_ME_Nouns.mov: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/ITALIAN_GESTURE/ITA_ME/Padden/ITA_ME_Actions.mov: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/ITALIAN_GESTURE/ITA_ME/Tweety/Tweety_Gesture/ITA_ME_TweetyG5.mp4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/ITALIAN_GESTURE/ITA_ME/Tweety/Tweety_Gesture/ITA_ME_TweetyG6.mp4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/ITALIAN_GESTURE/ITA_ME/Tweety/Tweety_Gesture/ITA_ME_TweetyG7.mp4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/ITALIAN_GESTURE/ITA_PB/Padden/ITA_PB_Nouns.mov: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/ITALIAN_GESTURE/ITA_PB/Padden/ITA_PB_Actions.mov: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_AP/padden/LIS_AP_NOUN.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_AP/padden/LIS_AP_ACTIONS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_CF/padden/LIS_CF_NOUNS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_CF/padden/LIS_CF_VERBS01.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_CF/padden/LIS_CF_VERBS02.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_CF/padden/LIS_CF_VERBS03.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_CF/padden/LIS_CF_VERBS04.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_DR/padden/LIS_DR_NOUNS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_DR/padden/LIS_DR_VERBS1.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_DR/padden/LIS_DR_VERBS2.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_GM/padden/LIS_GM_NOUNS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_GM/padden/LIS_GM_VERBS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_LM/padden/LIS_LM_NOUNS_ACTIONS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_MM/padden/LIS_MM_NOUNS_ACTIONS.MP4: No such file or directory
+
+
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_OE/padden/LIS_OE_NOUNS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_OE/padden/LIS_OE_VERBS1.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_OE/padden/LIS_OE_VERBS2.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_PA/padden/LIS_PA_NOUNS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_PA/padden/LIS_PA_VERBS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_PR/Vignettes/plane/LIS_PR_pl_05a.mp4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_PR/Vignettes/plane/LIS_PR_pl_05b.mp4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_PR/padden/LIS_PR_NOUNS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_PR/padden/LIS_PR_VERBS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_PT/padden/LIS_PT_Noun: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_PT/padden/LIS_PT_VERB: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_PT/padden/LIS_PT_NOUNS_ACTIONS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_SA/padden/LIS_SA_NOUNS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_SA/padden/LIS_SA_VERBS1.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_SA/padden/LIS_SA_VERBS2.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_SM/padden/LIS_SM_NOUNS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_SM/padden/LIS_SM_VERBS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_SP/padden/LIS_SP_NOUNS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_SP/padden/LIS_SP_VERBS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_TS/padden/LIS_TS_NOUNS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_TS/padden/LIS_TS_VERBS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_VG/padden/LIS_VG_NOUNS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/LIS/LIS_VG/padden/LIS_VG_VERBS.MP4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_AL/Padden/HKSL_AL_nouns.mp4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_AL/Padden/HKSL_AL_verbs.mp4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_BL/Padden/HKSL_BL_nouns.mp4: No such file or directory
+ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_BL/Padden/HKSL_BL_verbs.mp4: No such file or directory
+
+
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_CS/Padden/HKSL_CS_nouns.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_CS/Padden/HKSL_CS_verbs.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_CY/Padden/HKSL_CY_nouns.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_CY/Padden/HKSL_CY_verbs.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_KK/Padden/HKSL_KK_nouns.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_KK/Padden/HKSL_KK_verbs.mp4: No such file or directory
+-> no file ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_KM/Vignettes/pen/HKSL_KM_pe_10.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_KM/Padden/HKSL_KM_nouns.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_KM/Padden/HKSL_KM_verbs.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_LO/Padden/HKSL_LO_nouns.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_LO/Padden/HKSL_LO_verbs.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_ML/Padden/HKSL_ML_nouns.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_ML/Padden/HKSL_ML_verbs.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_MW/Padden/HKSL_MW_nouns.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_MW/Padden/HKSL_MW_verbs.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_MY/Padden/HKSL_MY_nouns.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_MY/Padden/HKSL_MY_verbs.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_SL/Padden/HKSL_SL_nouns.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_SL/Padden/HKSL_SL_verbs.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_WT/Padden/HKSL_WT_nouns.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_WT/Padden/HKSL_WT_verbs.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_YC/Padden/HKSL_YC_nouns.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_YC/Padden/HKSL_YC_verbs.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_YH/Padden/HKSL_YH_nouns.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_YH/Padden/HKSL_YH_verbs.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_YP/Padden/HKSL_YP_nouns.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/HONG KONG/HKSL/HKSL_YP/Padden/HKSL_YP_verbs.mp4: No such file or directory
+-> no file ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/US/ASL/ASL_KN/Vignettes/pen/ASL_KN_pe_10.mp4: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/US/ASL/ASL_RD/Tweety/ASL_RD_Tweety.mov: No such file or directory
+-> no file ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/US/US_GESTURE/ENG_FA/Vignettes/pen/ENG_FA_pe_08b.mp4: No such file or directory
+-> no file ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/US/US_GESTURE/ENG_SS/Tweety/Voice/ENG_SS_TweetyVoice07.mov: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/NICARAGUA/HOMESIGN/NHS_01/2006/Tweety/NAHS01_Tweety_2006.m4v: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/NICARAGUA/HOMESIGN/NHS_03/2006/Tweety/NAHS03_Tweety_2006.m4v: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/ITALIAN_GESTURE/ITA_GG/Tweety/ITA_GG_TweetyCS.mov: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/ITALIAN_GESTURE/ITA_GG/Tweety/ITA_GG_TweetyG.mov: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/ITALIAN_GESTURE/ITA_IR/Tweety/ITA_IR_TweetyCS.mov: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/ITALIAN_GESTURE/ITA_IR/Tweety/ITA_IR_TweetyG.mov: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/ITALIAN_GESTURE/ITA_MA/Tweety/ITA_MA_TweetyCS.mov: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/ITALIAN_GESTURE/ITA_MA/Tweety/ITA_MA_TweetyG.mov: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/ITALIAN_GESTURE/ITA_SJ/Tweety/ITA_SJ_TWeetyCS.mov: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/ITALY/ITALIAN_GESTURE/ITA_SJ/Tweety/ITA_SJ_TweetyG.mov: No such file or directory
+x ls: cannot access /project/dbrentari/Typology/VIDEO_DATA/CLIPPED_VIDEO/US/US_GESTURE/ENG_GB/Vignettes/pen/ENG_GB_pe_11.mov: No such file or directory

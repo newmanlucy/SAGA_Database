@@ -1,3 +1,5 @@
+# python 2.7
+
 # given a file list, compares headers between each of the listed file
 # returns header and which files have the corresponding header
 
